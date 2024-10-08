@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DLOAD\\DataStructure\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5FB153-E2A2-4DDE-8B74-64AE84AC68A7}|ListGUI\\ListGUI.csproj|D:\\DLOAD\\DataStructure\\listgui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B5FB153-E2A2-4DDE-8B74-64AE84AC68A7}|ListGUI\\ListGUI.csproj|solutionrelative:listgui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5FB153-E2A2-4DDE-8B74-64AE84AC68A7}|ListGUI\\ListGUI.csproj|d:\\dload\\datastructure\\listgui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8B5FB153-E2A2-4DDE-8B74-64AE84AC68A7}|ListGUI\\ListGUI.csproj|solutionrelative:listgui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC04DC8-72A3-40D6-9039-7D15E6CB93E4}|Lists\\Lists.csproj|D:\\DLOAD\\DataStructure\\lists\\arraylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC04DC8-72A3-40D6-9039-7D15E6CB93E4}|Lists\\Lists.csproj|solutionrelative:lists\\arraylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E588D609-7210-4A62-B872-3894B40526FA}|Test\\Test.csproj|D:\\DLOAD\\DataStructure\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E588D609-7210-4A62-B872-3894B40526FA}|Test\\Test.csproj|solutionrelative:test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E93393C-98EA-487F-8107-78B1F9019B4D}|LinkedListGUI\\GUI.csproj|D:\\DLOAD\\DataStructure\\linkedlistgui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E93393C-98EA-487F-8107-78B1F9019B4D}|LinkedListGUI\\GUI.csproj|solutionrelative:linkedlistgui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DLOAD\\DataStructure\\Test\\Program.cs",
+              "RelativeDocumentMoniker": "Test\\Program.cs",
+              "ToolTip": "D:\\DLOAD\\DataStructure\\Test\\Program.cs",
+              "RelativeToolTip": "Test\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T07:03:01.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\DLOAD\\DataStructure\\LinkedListGUI\\Form1.cs",
+              "RelativeDocumentMoniker": "LinkedListGUI\\Form1.cs",
+              "ToolTip": "D:\\DLOAD\\DataStructure\\LinkedListGUI\\Form1.cs",
+              "RelativeToolTip": "LinkedListGUI\\Form1.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAmwFQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T19:06:09.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArrayList.cs",
+              "DocumentMoniker": "D:\\DLOAD\\DataStructure\\Lists\\ArrayList.cs",
+              "RelativeDocumentMoniker": "Lists\\ArrayList.cs",
+              "ToolTip": "D:\\DLOAD\\DataStructure\\Lists\\ArrayList.cs",
+              "RelativeToolTip": "Lists\\ArrayList.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAIwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T19:29:53.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\DLOAD\\DataStructure\\ListGUI\\Form1.cs",
+              "RelativeDocumentMoniker": "ListGUI\\Form1.cs",
+              "ToolTip": "D:\\DLOAD\\DataStructure\\ListGUI\\Form1.cs",
+              "RelativeToolTip": "ListGUI\\Form1.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAIwEAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T19:06:37.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\DLOAD\\DataStructure\\ListGUI\\Form1.cs",
+              "RelativeDocumentMoniker": "ListGUI\\Form1.cs",
+              "ToolTip": "D:\\DLOAD\\DataStructure\\ListGUI\\Form1.cs [Design]",
+              "RelativeToolTip": "ListGUI\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T18:53:59.113Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

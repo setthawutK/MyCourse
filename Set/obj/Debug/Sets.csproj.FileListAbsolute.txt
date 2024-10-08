@@ -1,0 +1,10 @@
+D:\DLOAD\DataStructure\Set\bin\Debug\Set.exe.config
+D:\DLOAD\DataStructure\Set\bin\Debug\Set.exe
+D:\DLOAD\DataStructure\Set\bin\Debug\Set.pdb
+D:\DLOAD\DataStructure\Set\bin\Debug\Collections.dll
+D:\DLOAD\DataStructure\Set\bin\Debug\Collections.pdb
+D:\DLOAD\DataStructure\Set\obj\Debug\Sets.csproj.AssemblyReference.cache
+D:\DLOAD\DataStructure\Set\obj\Debug\Sets.csproj.CoreCompileInputs.cache
+D:\DLOAD\DataStructure\Set\obj\Debug\Sets.csproj.Up2Date
+D:\DLOAD\DataStructure\Set\obj\Debug\Set.exe
+D:\DLOAD\DataStructure\Set\obj\Debug\Set.pdb

@@ -1,0 +1,13 @@
+D:\Week3\DataStructure\LinkedListGUI\bin\Debug\LinkedListGUI.exe.config
+D:\Week3\DataStructure\LinkedListGUI\bin\Debug\LinkedListGUI.exe
+D:\Week3\DataStructure\LinkedListGUI\bin\Debug\LinkedListGUI.pdb
+D:\Week3\DataStructure\LinkedListGUI\bin\Debug\Collections.dll
+D:\Week3\DataStructure\LinkedListGUI\bin\Debug\Collections.pdb
+D:\Week3\DataStructure\LinkedListGUI\obj\Debug\LinkedListGUI.csproj.AssemblyReference.cache
+D:\Week3\DataStructure\LinkedListGUI\obj\Debug\LinkedListGUI.Form1.resources
+D:\Week3\DataStructure\LinkedListGUI\obj\Debug\LinkedListGUI.Properties.Resources.resources
+D:\Week3\DataStructure\LinkedListGUI\obj\Debug\LinkedListGUI.csproj.GenerateResource.cache
+D:\Week3\DataStructure\LinkedListGUI\obj\Debug\LinkedListGUI.csproj.CoreCompileInputs.cache
+D:\Week3\DataStructure\LinkedListGUI\obj\Debug\LinkedLi.A66D2E21.Up2Date
+D:\Week3\DataStructure\LinkedListGUI\obj\Debug\LinkedListGUI.exe
+D:\Week3\DataStructure\LinkedListGUI\obj\Debug\LinkedListGUI.pdb

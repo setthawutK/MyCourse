@@ -1,0 +1,16 @@
+D:\DLOAD\DataStructure\ListGUI\bin\Debug\ListGUI.exe.config
+D:\DLOAD\DataStructure\ListGUI\bin\Debug\ListGUI.exe
+D:\DLOAD\DataStructure\ListGUI\bin\Debug\ListGUI.pdb
+D:\DLOAD\DataStructure\ListGUI\obj\Debug\ListGUI.csproj.AssemblyReference.cache
+D:\DLOAD\DataStructure\ListGUI\obj\Debug\ListGUI.Form1.resources
+D:\DLOAD\DataStructure\ListGUI\obj\Debug\ListGUI.Properties.Resources.resources
+D:\DLOAD\DataStructure\ListGUI\obj\Debug\ListGUI.csproj.GenerateResource.cache
+D:\DLOAD\DataStructure\ListGUI\obj\Debug\ListGUI.csproj.CoreCompileInputs.cache
+D:\DLOAD\DataStructure\ListGUI\obj\Debug\ListGUI.exe
+D:\DLOAD\DataStructure\ListGUI\obj\Debug\ListGUI.pdb
+D:\DLOAD\DataStructure\ListGUI\bin\Debug\Collections.dll
+D:\DLOAD\DataStructure\ListGUI\bin\Debug\Lists.exe
+D:\DLOAD\DataStructure\ListGUI\bin\Debug\Collections.pdb
+D:\DLOAD\DataStructure\ListGUI\bin\Debug\Lists.pdb
+D:\DLOAD\DataStructure\ListGUI\bin\Debug\Lists.exe.config
+D:\DLOAD\DataStructure\ListGUI\obj\Debug\ListGUI.csproj.Up2Date

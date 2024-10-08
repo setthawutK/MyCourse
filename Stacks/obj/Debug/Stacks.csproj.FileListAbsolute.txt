@@ -1,0 +1,13 @@
+D:\DLOAD\DataStructure\Stacks\bin\Debug\Stacks.exe.config
+D:\DLOAD\DataStructure\Stacks\bin\Debug\Stacks.exe
+D:\DLOAD\DataStructure\Stacks\bin\Debug\Stacks.pdb
+D:\DLOAD\DataStructure\Stacks\obj\Debug\Stacks.csproj.AssemblyReference.cache
+D:\DLOAD\DataStructure\Stacks\obj\Debug\Stacks.csproj.CoreCompileInputs.cache
+D:\DLOAD\DataStructure\Stacks\obj\Debug\Stacks.exe
+D:\DLOAD\DataStructure\Stacks\obj\Debug\Stacks.pdb
+D:\DLOAD\DataStructure\Stacks\bin\Debug\Collections.dll
+D:\DLOAD\DataStructure\Stacks\bin\Debug\Lists.exe
+D:\DLOAD\DataStructure\Stacks\bin\Debug\Collections.pdb
+D:\DLOAD\DataStructure\Stacks\bin\Debug\Lists.pdb
+D:\DLOAD\DataStructure\Stacks\bin\Debug\Lists.exe.config
+D:\DLOAD\DataStructure\Stacks\obj\Debug\Stacks.csproj.Up2Date
