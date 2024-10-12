@@ -50,6 +50,11 @@ namespace Lists
         {
             addBefore(nodeAt(index), e);
         }
+        public void addRange(object[] items) 
+        {
+            for (int i = 0; i < items.Length; i++)
+                add(items[i]);
+        }
 
         public void add(object e)
         {

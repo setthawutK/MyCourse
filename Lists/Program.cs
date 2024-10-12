@@ -10,6 +10,9 @@ namespace Lists
     {
         static void Main(string[] args)
         {
+            List x = new LinkedList();
+            x.add("A");
+            x.add("B");
         }
     }
 }

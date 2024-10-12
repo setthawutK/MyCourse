@@ -1,0 +1,13 @@
+D:\DLOAD\DataStructure\Queues\bin\Debug\Queues.exe.config
+D:\DLOAD\DataStructure\Queues\bin\Debug\Queues.exe
+D:\DLOAD\DataStructure\Queues\bin\Debug\Queues.pdb
+D:\DLOAD\DataStructure\Queues\bin\Debug\Collections.dll
+D:\DLOAD\DataStructure\Queues\bin\Debug\Lists.exe
+D:\DLOAD\DataStructure\Queues\bin\Debug\Collections.pdb
+D:\DLOAD\DataStructure\Queues\bin\Debug\Lists.pdb
+D:\DLOAD\DataStructure\Queues\bin\Debug\Lists.exe.config
+D:\DLOAD\DataStructure\Queues\obj\Debug\Queues.csproj.AssemblyReference.cache
+D:\DLOAD\DataStructure\Queues\obj\Debug\Queues.csproj.CoreCompileInputs.cache
+D:\DLOAD\DataStructure\Queues\obj\Debug\Queues.csproj.Up2Date
+D:\DLOAD\DataStructure\Queues\obj\Debug\Queues.exe
+D:\DLOAD\DataStructure\Queues\obj\Debug\Queues.pdb

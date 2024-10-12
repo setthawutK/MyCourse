@@ -3,28 +3,35 @@
   "WorkspaceRootPath": "D:\\DLOAD\\DataStructure\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9042858C-ED43-4B27-BD64-AC6CF2444CF6}|Stacks\\Stacks.csproj|D:\\DLOAD\\DataStructure\\stacks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9042858C-ED43-4B27-BD64-AC6CF2444CF6}|Stacks\\Stacks.csproj|solutionrelative:stacks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9042858C-ED43-4B27-BD64-AC6CF2444CF6}|Stacks\\Stacks.csproj|D:\\DLOAD\\DataStructure\\stacks\\arraystack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9042858C-ED43-4B27-BD64-AC6CF2444CF6}|Stacks\\Stacks.csproj|solutionrelative:stacks\\arraystack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E588D609-7210-4A62-B872-3894B40526FA}|Test\\Test.csproj|d:\\dload\\datastructure\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E588D609-7210-4A62-B872-3894B40526FA}|Test\\Test.csproj|solutionrelative:test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9042858C-ED43-4B27-BD64-AC6CF2444CF6}|Stacks\\Stacks.csproj|D:\\DLOAD\\DataStructure\\stacks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9042858C-ED43-4B27-BD64-AC6CF2444CF6}|Stacks\\Stacks.csproj|solutionrelative:stacks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDC04DC8-72A3-40D6-9039-7D15E6CB93E4}|Lists\\Lists.csproj|D:\\DLOAD\\DataStructure\\lists\\linkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9042858C-ED43-4B27-BD64-AC6CF2444CF6}|Stacks\\Stacks.csproj|D:\\DLOAD\\DataStructure\\stacks\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9042858C-ED43-4B27-BD64-AC6CF2444CF6}|Stacks\\Stacks.csproj|solutionrelative:stacks\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9042858C-ED43-4B27-BD64-AC6CF2444CF6}|Stacks\\Stacks.csproj|D:\\DLOAD\\DataStructure\\stacks\\linkedstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9042858C-ED43-4B27-BD64-AC6CF2444CF6}|Stacks\\Stacks.csproj|solutionrelative:stacks\\linkedstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Stacks||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC04DC8-72A3-40D6-9039-7D15E6CB93E4}|Lists\\Lists.csproj|d:\\dload\\datastructure\\lists\\linkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDC04DC8-72A3-40D6-9039-7D15E6CB93E4}|Lists\\Lists.csproj|solutionrelative:lists\\linkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDC04DC8-72A3-40D6-9039-7D15E6CB93E4}|Lists\\Lists.csproj|D:\\DLOAD\\DataStructure\\lists\\list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDC04DC8-72A3-40D6-9039-7D15E6CB93E4}|Lists\\Lists.csproj|solutionrelative:lists\\list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EDC04DC8-72A3-40D6-9039-7D15E6CB93E4}|Lists\\Lists.csproj|d:\\dload\\datastructure\\lists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDC04DC8-72A3-40D6-9039-7D15E6CB93E4}|Lists\\Lists.csproj|solutionrelative:lists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC04DC8-72A3-40D6-9039-7D15E6CB93E4}|Lists\\Lists.csproj|D:\\DLOAD\\DataStructure\\lists\\list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC04DC8-72A3-40D6-9039-7D15E6CB93E4}|Lists\\Lists.csproj|solutionrelative:lists\\list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EDC04DC8-72A3-40D6-9039-7D15E6CB93E4}|Lists\\Lists.csproj|D:\\DLOAD\\DataStructure\\lists\\singlylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,44 +42,48 @@
       "RelativeMoniker": "D:0:0:{EDC04DC8-72A3-40D6-9039-7D15E6CB93E4}|Lists\\Lists.csproj|solutionrelative:lists\\arraylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84FB46A5-C0F1-4D21-88F2-D344C1BE920F}|Queues\\Queues.csproj|d:\\dload\\datastructure\\queues\\aq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84FB46A5-C0F1-4D21-88F2-D344C1BE920F}|Queues\\Queues.csproj|solutionrelative:queues\\aq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84FB46A5-C0F1-4D21-88F2-D344C1BE920F}|Queues\\Queues.csproj|d:\\dload\\datastructure\\queues\\arrayqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84FB46A5-C0F1-4D21-88F2-D344C1BE920F}|Queues\\Queues.csproj|solutionrelative:queues\\arrayqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84FB46A5-C0F1-4D21-88F2-D344C1BE920F}|Queues\\Queues.csproj|d:\\dload\\datastructure\\queues\\queue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84FB46A5-C0F1-4D21-88F2-D344C1BE920F}|Queues\\Queues.csproj|solutionrelative:queues\\queue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9042858C-ED43-4B27-BD64-AC6CF2444CF6}|Stacks\\Stacks.csproj|D:\\DLOAD\\DataStructure\\stacks\\linkedstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9042858C-ED43-4B27-BD64-AC6CF2444CF6}|Stacks\\Stacks.csproj|solutionrelative:stacks\\linkedstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9042858C-ED43-4B27-BD64-AC6CF2444CF6}|Stacks\\Stacks.csproj|D:\\DLOAD\\DataStructure\\stacks\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9042858C-ED43-4B27-BD64-AC6CF2444CF6}|Stacks\\Stacks.csproj|solutionrelative:stacks\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84FB46A5-C0F1-4D21-88F2-D344C1BE920F}|Queues\\Queues.csproj|d:\\dload\\datastructure\\queues\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84FB46A5-C0F1-4D21-88F2-D344C1BE920F}|Queues\\Queues.csproj|solutionrelative:queues\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7FC894E6-27F7-427B-A599-E394D306B065}|Collections\\Collections.csproj|D:\\DLOAD\\DataStructure\\collections\\linkedcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC894E6-27F7-427B-A599-E394D306B065}|Collections\\Collections.csproj|solutionrelative:collections\\linkedcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7FC894E6-27F7-427B-A599-E394D306B065}|Collections\\Collections.csproj|D:\\DLOAD\\DataStructure\\collections\\arraycollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7FC894E6-27F7-427B-A599-E394D306B065}|Collections\\Collections.csproj|solutionrelative:collections\\arraycollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FC894E6-27F7-427B-A599-E394D306B065}|Collections\\Collections.csproj|D:\\DLOAD\\DataStructure\\collections\\linkedcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FC894E6-27F7-427B-A599-E394D306B065}|Collections\\Collections.csproj|solutionrelative:collections\\linkedcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{84FB46A5-C0F1-4D21-88F2-D344C1BE920F}|Queues\\Queues.csproj|D:\\DLOAD\\DataStructure\\queues\\t2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84FB46A5-C0F1-4D21-88F2-D344C1BE920F}|Queues\\Queues.csproj|solutionrelative:queues\\t2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30C9F5AE-A5DA-4F70-84CC-5159FBD57A90}|Set\\Sets.csproj|D:\\DLOAD\\DataStructure\\set\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30C9F5AE-A5DA-4F70-84CC-5159FBD57A90}|Set\\Sets.csproj|solutionrelative:set\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{84FB46A5-C0F1-4D21-88F2-D344C1BE920F}|Queues\\Queues.csproj|D:\\DLOAD\\DataStructure\\queues\\t3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84FB46A5-C0F1-4D21-88F2-D344C1BE920F}|Queues\\Queues.csproj|solutionrelative:queues\\t3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84FB46A5-C0F1-4D21-88F2-D344C1BE920F}|Queues\\Queues.csproj|D:\\DLOAD\\DataStructure\\queues\\t1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84FB46A5-C0F1-4D21-88F2-D344C1BE920F}|Queues\\Queues.csproj|solutionrelative:queues\\t1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84FB46A5-C0F1-4D21-88F2-D344C1BE920F}|Queues\\Queues.csproj|D:\\DLOAD\\DataStructure\\queues\\arrayqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84FB46A5-C0F1-4D21-88F2-D344C1BE920F}|Queues\\Queues.csproj|solutionrelative:queues\\arrayqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{30C9F5AE-A5DA-4F70-84CC-5159FBD57A90}|Set\\Sets.csproj|D:\\DLOAD\\DataStructure\\set\\linkedset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30C9F5AE-A5DA-4F70-84CC-5159FBD57A90}|Set\\Sets.csproj|solutionrelative:set\\linkedset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C9F5AE-A5DA-4F70-84CC-5159FBD57A90}|Set\\Sets.csproj|D:\\DLOAD\\DataStructure\\set\\arrayset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C9F5AE-A5DA-4F70-84CC-5159FBD57A90}|Set\\Sets.csproj|solutionrelative:set\\arrayset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84FB46A5-C0F1-4D21-88F2-D344C1BE920F}|Queues\\Queues.csproj|D:\\DLOAD\\DataStructure\\queues\\queue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84FB46A5-C0F1-4D21-88F2-D344C1BE920F}|Queues\\Queues.csproj|solutionrelative:queues\\queue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84FB46A5-C0F1-4D21-88F2-D344C1BE920F}|Queues\\Queues.csproj|D:\\DLOAD\\DataStructure\\queues\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84FB46A5-C0F1-4D21-88F2-D344C1BE920F}|Queues\\Queues.csproj|solutionrelative:queues\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C9F5AE-A5DA-4F70-84CC-5159FBD57A90}|Set\\Sets.csproj|D:\\DLOAD\\DataStructure\\set\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C9F5AE-A5DA-4F70-84CC-5159FBD57A90}|Set\\Sets.csproj|solutionrelative:set\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7FC894E6-27F7-427B-A599-E394D306B065}|Collections\\Collections.csproj|D:\\DLOAD\\DataStructure\\collections\\linkedheadercollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -81,10 +92,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{4E93393C-98EA-487F-8107-78B1F9019B4D}|LinkedListGUI\\GUI.csproj|D:\\DLOAD\\DataStructure\\linkedlistgui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E93393C-98EA-487F-8107-78B1F9019B4D}|LinkedListGUI\\GUI.csproj|solutionrelative:linkedlistgui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{30C9F5AE-A5DA-4F70-84CC-5159FBD57A90}|Set\\Sets.csproj|D:\\DLOAD\\DataStructure\\set\\arrayset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30C9F5AE-A5DA-4F70-84CC-5159FBD57A90}|Set\\Sets.csproj|solutionrelative:set\\arrayset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8B5FB153-E2A2-4DDE-8B74-64AE84AC68A7}|ListGUI\\ListGUI.csproj|D:\\DLOAD\\DataStructure\\listgui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -101,6 +108,9 @@
     {
       "AbsoluteMoniker": "D:0:0:{8B5FB153-E2A2-4DDE-8B74-64AE84AC68A7}|ListGUI\\ListGUI.csproj|D:\\DLOAD\\DataStructure\\listgui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8B5FB153-E2A2-4DDE-8B74-64AE84AC68A7}|ListGUI\\ListGUI.csproj|solutionrelative:listgui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9042858C-ED43-4B27-BD64-AC6CF2444CF6}|Stacks\\Stacks.csproj|d:\\dload\\datastructure\\stacks\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -110,24 +120,73 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\DLOAD\\DataStructure\\Lists\\Program.cs",
               "RelativeDocumentMoniker": "Lists\\Program.cs",
               "ToolTip": "D:\\DLOAD\\DataStructure\\Lists\\Program.cs",
               "RelativeToolTip": "Lists\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T18:57:17.39Z",
+              "WhenOpened": "2024-10-12T16:37:06.656Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LinkedSet.cs",
+              "DocumentMoniker": "D:\\DLOAD\\DataStructure\\Set\\LinkedSet.cs",
+              "RelativeDocumentMoniker": "Set\\LinkedSet.cs",
+              "ToolTip": "D:\\DLOAD\\DataStructure\\Set\\LinkedSet.cs",
+              "RelativeToolTip": "Set\\LinkedSet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T16:18:28.323Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "ArrayList.cs",
+              "DocumentMoniker": "D:\\DLOAD\\DataStructure\\Lists\\ArrayList.cs",
+              "RelativeDocumentMoniker": "Lists\\ArrayList.cs",
+              "ToolTip": "D:\\DLOAD\\DataStructure\\Lists\\ArrayList.cs",
+              "RelativeToolTip": "Lists\\ArrayList.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T19:29:53.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SinglyLinkedList.cs",
+              "DocumentMoniker": "D:\\DLOAD\\DataStructure\\Lists\\SinglyLinkedList.cs",
+              "RelativeDocumentMoniker": "Lists\\SinglyLinkedList.cs",
+              "ToolTip": "D:\\DLOAD\\DataStructure\\Lists\\SinglyLinkedList.cs",
+              "RelativeToolTip": "Lists\\SinglyLinkedList.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAcwCgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T14:41:22.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArrayStack.cs",
+              "DocumentMoniker": "D:\\DLOAD\\DataStructure\\Stacks\\ArrayStack.cs",
+              "RelativeDocumentMoniker": "Stacks\\ArrayStack.cs",
+              "ToolTip": "D:\\DLOAD\\DataStructure\\Stacks\\ArrayStack.cs",
+              "RelativeToolTip": "Stacks\\ArrayStack.cs",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAiwLYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T15:39:45.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "ArrayQueue.cs",
               "DocumentMoniker": "D:\\DLOAD\\DataStructure\\Queues\\ArrayQueue.cs",
               "RelativeDocumentMoniker": "Queues\\ArrayQueue.cs",
@@ -135,77 +194,98 @@
               "RelativeToolTip": "Queues\\ArrayQueue.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T18:28:27.635Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-08T18:28:27.635Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AQ.cs",
-              "DocumentMoniker": "D:\\DLOAD\\DataStructure\\Queues\\AQ.cs",
-              "RelativeDocumentMoniker": "Queues\\AQ.cs",
-              "ToolTip": "D:\\DLOAD\\DataStructure\\Queues\\AQ.cs",
-              "RelativeToolTip": "Queues\\AQ.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAwwEgAAAATAAAAAAAAAA==",
+              "DocumentIndex": 14,
+              "Title": "t1.cs",
+              "DocumentMoniker": "D:\\DLOAD\\DataStructure\\Queues\\t1.cs",
+              "RelativeDocumentMoniker": "Queues\\t1.cs",
+              "ToolTip": "D:\\DLOAD\\DataStructure\\Queues\\t1.cs",
+              "RelativeToolTip": "Queues\\t1.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAA4wEgAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T09:36:14.122Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-08T09:36:14.122Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Queue.cs",
-              "DocumentMoniker": "D:\\DLOAD\\DataStructure\\Queues\\Queue.cs",
-              "RelativeDocumentMoniker": "Queues\\Queue.cs",
-              "ToolTip": "D:\\DLOAD\\DataStructure\\Queues\\Queue.cs",
-              "RelativeToolTip": "Queues\\Queue.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "t2.cs",
+              "DocumentMoniker": "D:\\DLOAD\\DataStructure\\Queues\\t2.cs",
+              "RelativeDocumentMoniker": "Queues\\t2.cs",
+              "ToolTip": "D:\\DLOAD\\DataStructure\\Queues\\t2.cs",
+              "RelativeToolTip": "Queues\\t2.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T09:05:00.836Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-08T19:09:07.529Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\DLOAD\\DataStructure\\Queues\\Program.cs",
-              "RelativeDocumentMoniker": "Queues\\Program.cs",
-              "ToolTip": "D:\\DLOAD\\DataStructure\\Queues\\Program.cs",
-              "RelativeToolTip": "Queues\\Program.cs",
+              "Title": "t3.cs",
+              "DocumentMoniker": "D:\\DLOAD\\DataStructure\\Queues\\t3.cs",
+              "RelativeDocumentMoniker": "Queues\\t3.cs",
+              "ToolTip": "D:\\DLOAD\\DataStructure\\Queues\\t3.cs",
+              "RelativeToolTip": "Queues\\t3.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T19:15:38.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "List.cs",
+              "DocumentMoniker": "D:\\DLOAD\\DataStructure\\Lists\\List.cs",
+              "RelativeDocumentMoniker": "Lists\\List.cs",
+              "ToolTip": "D:\\DLOAD\\DataStructure\\Lists\\List.cs",
+              "RelativeToolTip": "Lists\\List.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T08:54:44.913Z",
+              "WhenOpened": "2024-10-02T15:42:10.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DLOAD\\DataStructure\\Stacks\\Program.cs",
+              "RelativeDocumentMoniker": "Stacks\\Program.cs",
+              "ToolTip": "D:\\DLOAD\\DataStructure\\Stacks\\Program.cs",
+              "RelativeToolTip": "Stacks\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T15:36:48.047Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 5,
+              "Title": "LinkedList.cs",
+              "DocumentMoniker": "D:\\DLOAD\\DataStructure\\Lists\\LinkedList.cs",
+              "RelativeDocumentMoniker": "Lists\\LinkedList.cs",
+              "ToolTip": "D:\\DLOAD\\DataStructure\\Lists\\LinkedList.cs",
+              "RelativeToolTip": "Lists\\LinkedList.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T10:12:29.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "LinkedStack.cs",
               "DocumentMoniker": "D:\\DLOAD\\DataStructure\\Stacks\\LinkedStack.cs",
               "RelativeDocumentMoniker": "Stacks\\LinkedStack.cs",
               "ToolTip": "D:\\DLOAD\\DataStructure\\Stacks\\LinkedStack.cs",
               "RelativeToolTip": "Stacks\\LinkedStack.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAowCcAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA6wCUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-03T14:00:23.785Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ArrayStack.cs",
-              "DocumentMoniker": "D:\\DLOAD\\DataStructure\\Stacks\\ArrayStack.cs",
-              "RelativeDocumentMoniker": "Stacks\\ArrayStack.cs",
-              "ToolTip": "D:\\DLOAD\\DataStructure\\Stacks\\ArrayStack.cs",
-              "RelativeToolTip": "Stacks\\ArrayStack.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAcwK8AAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T15:39:45.827Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 2,
               "Title": "Stack.cs",
               "DocumentMoniker": "D:\\DLOAD\\DataStructure\\Stacks\\Stack.cs",
               "RelativeDocumentMoniker": "Stacks\\Stack.cs",
@@ -218,132 +298,43 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\DLOAD\\DataStructure\\Stacks\\Program.cs",
-              "RelativeDocumentMoniker": "Stacks\\Program.cs",
-              "ToolTip": "D:\\DLOAD\\DataStructure\\Stacks\\Program.cs*",
-              "RelativeToolTip": "Stacks\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T15:36:48.047Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\DLOAD\\DataStructure\\Test\\Program.cs",
-              "RelativeDocumentMoniker": "Test\\Program.cs",
-              "ToolTip": "D:\\DLOAD\\DataStructure\\Test\\Program.cs",
-              "RelativeToolTip": "Test\\Program.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAhwCwAAABhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T07:03:01.831Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "List.cs",
-              "DocumentMoniker": "D:\\DLOAD\\DataStructure\\Lists\\List.cs",
-              "RelativeDocumentMoniker": "Lists\\List.cs",
-              "ToolTip": "D:\\DLOAD\\DataStructure\\Lists\\List.cs",
-              "RelativeToolTip": "Lists\\List.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T15:42:10.78Z",
+              "Title": "Stacks",
+              "DocumentMoniker": "D:\\DLOAD\\DataStructure\\Stacks\\Stacks.csproj",
+              "RelativeDocumentMoniker": "Stacks\\Stacks.csproj",
+              "ToolTip": "D:\\DLOAD\\DataStructure\\Stacks\\Stacks.csproj",
+              "RelativeToolTip": "Stacks\\Stacks.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-12T16:56:22.494Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LinkedList.cs",
-              "DocumentMoniker": "D:\\DLOAD\\DataStructure\\Lists\\LinkedList.cs",
-              "RelativeDocumentMoniker": "Lists\\LinkedList.cs",
-              "ToolTip": "D:\\DLOAD\\DataStructure\\Lists\\LinkedList.cs",
-              "RelativeToolTip": "Lists\\LinkedList.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAmwF4AAAAlAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "LinkedCollection.cs",
+              "DocumentMoniker": "D:\\DLOAD\\DataStructure\\Collections\\LinkedCollection.cs",
+              "RelativeDocumentMoniker": "Collections\\LinkedCollection.cs",
+              "ToolTip": "D:\\DLOAD\\DataStructure\\Collections\\LinkedCollection.cs",
+              "RelativeToolTip": "Collections\\LinkedCollection.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T10:12:29.117Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T17:59:24.999Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "SinglyLinkedList.cs",
-              "DocumentMoniker": "D:\\DLOAD\\DataStructure\\Lists\\SinglyLinkedList.cs",
-              "RelativeDocumentMoniker": "Lists\\SinglyLinkedList.cs",
-              "ToolTip": "D:\\DLOAD\\DataStructure\\Lists\\SinglyLinkedList.cs",
-              "RelativeToolTip": "Lists\\SinglyLinkedList.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAxwCgAAAA5AAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "ArrayCollection.cs",
+              "DocumentMoniker": "D:\\DLOAD\\DataStructure\\Collections\\ArrayCollection.cs",
+              "RelativeDocumentMoniker": "Collections\\ArrayCollection.cs",
+              "ToolTip": "D:\\DLOAD\\DataStructure\\Collections\\ArrayCollection.cs",
+              "RelativeToolTip": "Collections\\ArrayCollection.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCAAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T14:41:22.619Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-02T17:00:03.317Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ArrayList.cs",
-              "DocumentMoniker": "D:\\DLOAD\\DataStructure\\Lists\\ArrayList.cs",
-              "RelativeDocumentMoniker": "Lists\\ArrayList.cs",
-              "ToolTip": "D:\\DLOAD\\DataStructure\\Lists\\ArrayList.cs",
-              "RelativeToolTip": "Lists\\ArrayList.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAowBAAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T19:29:53.711Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\DLOAD\\DataStructure\\LinkedListGUI\\Form1.cs",
-              "RelativeDocumentMoniker": "LinkedListGUI\\Form1.cs",
-              "ToolTip": "D:\\DLOAD\\DataStructure\\LinkedListGUI\\Form1.cs [Design]",
-              "RelativeToolTip": "LinkedListGUI\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T16:56:02.263Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "LinkedHeaderCollection.cs",
-              "DocumentMoniker": "D:\\DLOAD\\DataStructure\\Collections\\LinkedHeaderCollection.cs",
-              "RelativeDocumentMoniker": "Collections\\LinkedHeaderCollection.cs",
-              "ToolTip": "D:\\DLOAD\\DataStructure\\Collections\\LinkedHeaderCollection.cs",
-              "RelativeToolTip": "Collections\\LinkedHeaderCollection.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAowBkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T17:59:14.839Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Set.cs",
-              "DocumentMoniker": "D:\\DLOAD\\DataStructure\\Set\\Set.cs",
-              "RelativeDocumentMoniker": "Set\\Set.cs",
-              "ToolTip": "D:\\DLOAD\\DataStructure\\Set\\Set.cs",
-              "RelativeToolTip": "Set\\Set.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T16:24:12.389Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\DLOAD\\DataStructure\\Set\\Program.cs",
-              "RelativeDocumentMoniker": "Set\\Program.cs",
-              "ToolTip": "D:\\DLOAD\\DataStructure\\Set\\Program.cs",
-              "RelativeToolTip": "Set\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T16:55:29.091Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 17,
               "Title": "ArraySet.cs",
               "DocumentMoniker": "D:\\DLOAD\\DataStructure\\Set\\ArraySet.cs",
               "RelativeDocumentMoniker": "Set\\ArraySet.cs",
@@ -355,43 +346,78 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ArrayCollection.cs",
-              "DocumentMoniker": "D:\\DLOAD\\DataStructure\\Collections\\ArrayCollection.cs",
-              "RelativeDocumentMoniker": "Collections\\ArrayCollection.cs",
-              "ToolTip": "D:\\DLOAD\\DataStructure\\Collections\\ArrayCollection.cs",
-              "RelativeToolTip": "Collections\\ArrayCollection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T17:00:03.317Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "LinkedCollection.cs",
-              "DocumentMoniker": "D:\\DLOAD\\DataStructure\\Collections\\LinkedCollection.cs",
-              "RelativeDocumentMoniker": "Collections\\LinkedCollection.cs",
-              "ToolTip": "D:\\DLOAD\\DataStructure\\Collections\\LinkedCollection.cs",
-              "RelativeToolTip": "Collections\\LinkedCollection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T17:59:24.999Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "LinkedSet.cs",
-              "DocumentMoniker": "D:\\DLOAD\\DataStructure\\Set\\LinkedSet.cs",
-              "RelativeDocumentMoniker": "Set\\LinkedSet.cs",
-              "ToolTip": "D:\\DLOAD\\DataStructure\\Set\\LinkedSet.cs",
-              "RelativeToolTip": "Set\\LinkedSet.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T16:18:28.323Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DLOAD\\DataStructure\\Queues\\Program.cs",
+              "RelativeDocumentMoniker": "Queues\\Program.cs",
+              "ToolTip": "D:\\DLOAD\\DataStructure\\Queues\\Program.cs",
+              "RelativeToolTip": "Queues\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T08:54:44.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Queue.cs",
+              "DocumentMoniker": "D:\\DLOAD\\DataStructure\\Queues\\Queue.cs",
+              "RelativeDocumentMoniker": "Queues\\Queue.cs",
+              "ToolTip": "D:\\DLOAD\\DataStructure\\Queues\\Queue.cs",
+              "RelativeToolTip": "Queues\\Queue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T09:05:00.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\DLOAD\\DataStructure\\LinkedListGUI\\Form1.cs",
+              "RelativeDocumentMoniker": "LinkedListGUI\\Form1.cs",
+              "ToolTip": "D:\\DLOAD\\DataStructure\\LinkedListGUI\\Form1.cs [Design]",
+              "RelativeToolTip": "LinkedListGUI\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T16:56:02.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LinkedHeaderCollection.cs",
+              "DocumentMoniker": "D:\\DLOAD\\DataStructure\\Collections\\LinkedHeaderCollection.cs",
+              "RelativeDocumentMoniker": "Collections\\LinkedHeaderCollection.cs",
+              "ToolTip": "D:\\DLOAD\\DataStructure\\Collections\\LinkedHeaderCollection.cs",
+              "RelativeToolTip": "Collections\\LinkedHeaderCollection.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T17:59:14.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Set.cs",
+              "DocumentMoniker": "D:\\DLOAD\\DataStructure\\Set\\Set.cs",
+              "RelativeDocumentMoniker": "Set\\Set.cs",
+              "ToolTip": "D:\\DLOAD\\DataStructure\\Set\\Set.cs",
+              "RelativeToolTip": "Set\\Set.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T16:24:12.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DLOAD\\DataStructure\\Set\\Program.cs",
+              "RelativeDocumentMoniker": "Set\\Program.cs",
+              "ToolTip": "D:\\DLOAD\\DataStructure\\Set\\Program.cs",
+              "RelativeToolTip": "Set\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T16:55:29.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\DLOAD\\DataStructure\\LinkedListGUI\\Form1.cs",
               "RelativeDocumentMoniker": "LinkedListGUI\\Form1.cs",
@@ -403,7 +429,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\DLOAD\\DataStructure\\ListGUI\\Form1.cs",
               "RelativeDocumentMoniker": "ListGUI\\Form1.cs",
@@ -415,7 +441,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\DLOAD\\DataStructure\\ListGUI\\Form1.cs",
               "RelativeDocumentMoniker": "ListGUI\\Form1.cs",

@@ -91,6 +91,7 @@ namespace Stacks
 
         private static int[] priority = { 1, 1, 2, 2, 3 };
         // หลักการ Priority มากกว่าจะทำการ push และดำเนินการก่อน
+        //                                   +  -  *  /  ^  (   )
         private static int[] OutPriority = { 2, 2, 3, 3, 5, 6, 1 };
         private static int[] InPriority = { 2, 2, 3, 3, 4, 0};
         private static bool isOperator(String input)
@@ -116,45 +117,32 @@ namespace Stacks
         {
             return priority[operators.IndexOf(input)];
         }
-        
-        public static List infixToPostfix(List infix)
-        {
-            List postfix = new ArrayList(infix.size());
-            Stack x = new ArrayStack(infix.size());
-            for (int i = 0; i < infix.size(); i++)
-            {
-                String C = (String)infix.get(i);
-                if(!isOperator(C))
-                    postfix.add(C);
-                else
-                {
-                    int j = Priority(C);
-                    while(!x.isEmpty() && Priority((String)x.peek()) >= j ) //ถ้า Priority ของตัวบนสุดใน stack มากกว่าหรือเท่ากับตัวนอก จะ add
-                        postfix.add(x.pop()); //หรือง่ายๆจะ addไป postfix เรื่อยๆถ้ายังมากกว่าหรือเท่ากับ แต่พอน้อยกว่าก็จะ push j แทน
-                    x.push(C);            
+            
 
-                }
-            }
-            while (!x.isEmpty())
-                postfix.add(x.pop());
-            checkPostifx(postfix);
-            return postfix;
-                              
-        }
         public static List InfixToPostfix(List infix)
         {
+            StringBuilder s = new StringBuilder();
+            for (int i = 0; i < infix.size(); i++)
+                s.Append(infix.get(i).ToString());
+            if (!IsCorrectParentheses(s.ToString()))
+            {
+                Console.WriteLine("False");
+                return infix;
+            }                       
+
             List postfix = new ArrayList(infix.size());
-            Stack x = new ArrayStack(infix.size());
+            Stack x = new ArrayStack(infix.size());            
             for (int i = 0; i < infix.size(); i++)
             {
+
                 String C = (String)infix.get(i);
                 if (!isOperator(C))
-                    postfix.add(C);
+                    postfix.add(C);                               
                 else
                 {
                     int j = outPriority(C);
-                    while (!x.isEmpty() && inPriority((String)x.peek()) >= j)//ถ้า Priority ของตัวบนสุดใน stack มากกว่าหรือเท่ากับตัวนอก จะ add
-                        postfix.add(x.pop()); //หรือง่ายๆจะ addไป postfix เรื่อยๆถ้ายังมากกว่าหรือเท่ากับ แต่พอน้อยกว่าก็จะ push j แทน
+                    while (!x.isEmpty() && inPriority((String)x.peek()) >= j)
+                        postfix.add(x.pop()); 
                     if (C.Equals(")")) 
                         x.pop();
                     else x.push(C);
@@ -163,21 +151,63 @@ namespace Stacks
             }
             while (!x.isEmpty())
                 postfix.add(x.pop());
-            checkPostifx(postfix);
-            return postfix;
-
-            
+            showPostfix(postfix);
+            calculatePostfix(postfix);
+            return postfix;         
         }
 
-        private static void checkPostifx(List x)
+     
+
+
+
+        private static void showPostfix(List x)
         {
             for (int i = 0; i < x.size(); i++)
-            {
-                //x.get(i);
                 Console.Write(" " + x.get(i));
-            }
+            Console.WriteLine();
         }
 
-      
+        private static void calculatePostfix(List p)
+        {
+            Stack x = new ArrayStack(p.size());
+
+            for (int i = 0; i < p.size(); i++)
+            {
+                String C = (String)p.get(i);
+                if (!isOperator(C))
+                    x.push(C);
+                else
+                {
+                    double b = Convert.ToDouble(x.pop());
+                    double a = Convert.ToDouble(x.pop());
+                    double res = 0;
+
+                    int opIndex = operators.IndexOf(C);
+                    switch (opIndex)
+                    {
+                        case 0: // "+"
+                            res = a + b;
+                            break;
+                        case 1: // "-"
+                            res = a - b;
+                            break;
+                        case 2: // "*"
+                            res = a * b;
+                            break;
+                        case 3: // "/"
+                            res = a / b;
+                            break;
+                        case 4: // "^"
+                            res = Math.Pow(a, b);
+                            break;
+                    }
+                    x.push(res);
+                 
+                }
+            }
+            Console.WriteLine(" result : " + x.pop());
+        }
+
+
     }
 }

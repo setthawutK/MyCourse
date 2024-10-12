@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Lists;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,10 +11,14 @@ namespace Stacks
     {
         static void Main(string[] args)
         {
-            Stack x = new ArrayStack(5);
-            
-            Console.WriteLine(ArrayStack.IsCorrectParentheses("(())}"));  // จะแสดงผลเป็น false
+            //object[] d = { "(", 1, "+", "2", ")", "*", "4" };
+            List x = new LinkedList();
+            x.add("("); x.add("1"); x.add("+"); x.add("2"); x.add(")"); x.add("*"); x.add("4");  
+            ArrayStack.InfixToPostfix(x); 
             Console.ReadLine();
+
+
+
         }
     }
 }
