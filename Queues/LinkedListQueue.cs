@@ -7,10 +7,10 @@ using System.Threading.Tasks;
 
 namespace Queues
 {
-    public class t3 : Queue
+    public class LinkedListQueue : Queue
     {
         private List list;
-        public t3()
+        public LinkedListQueue()
         {
             list = new LinkedList();
         }

@@ -84,7 +84,7 @@ namespace Stacks
         }
 
 
-
+        //                                
         private static String operators = "+-*/^()";
         //private static String operatorx = "+-*/^";
 
@@ -141,11 +141,11 @@ namespace Stacks
                 else
                 {
                     int j = outPriority(C);
-                    while (!x.isEmpty() && inPriority((String)x.peek()) >= j)
-                        postfix.add(x.pop()); 
+                    while (!x.isEmpty() && inPriority((String)x.peek()) >= j) //ถ้า*ข้างใน* stack ไม่ว่างและ ค่า Priority มากกว่าเท่ากับตัวที่รับเข้ามาจาก List infix
+                        postfix.add(x.pop());  //จะทำการ add ตัวบนสุดใน stack  ไปยัง list postfix
                     if (C.Equals(")")) 
                         x.pop();
-                    else x.push(C);
+                    else x.push(C); //ถ้า*ข้างใน* stack ค่า Priority น้อยกว่าตัวที่รับเข้ามาจาก List infix จะ push ตัวที่รับมาลง
 
                 }
             }
