@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.Remoting.Metadata.W3cXsd2001;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -13,7 +14,7 @@ namespace Queues
         private int cap;
         private int firstindex;
 
-        public ArrayQueue(int cap) 
+        public ArrayQueue(int cap)
         {
             data = new object[cap];
             SIZE = firstindex = 0;
@@ -22,7 +23,7 @@ namespace Queues
 
         public object dequeue()
         {
-            object e = peek();           
+            object e = peek();
             data[firstindex] = null;
             firstindex = (firstindex + 1) % data.Length;
             SIZE--;
@@ -52,7 +53,7 @@ namespace Queues
             {
                 object[] tempdata = new object[2 * SIZE];
                 for (int i = 0, j = firstindex; i < SIZE; i++, j = (firstindex + 1) % data.Length)
-                    tempdata[i] = data[j];               
+                    tempdata[i] = data[j];
                 firstindex = 0;
                 data = tempdata;
             }
@@ -61,7 +62,7 @@ namespace Queues
         public void enqueue1(object e)
         {
             ensureCapacity1();
-            data[firstindex + SIZE] = e; 
+            data[firstindex + SIZE] = e;
             SIZE++;
         }
 
@@ -89,9 +90,48 @@ namespace Queues
             return SIZE;
         }
 
+        public static void radixSort(int[] data)
+        {
+            int maxValue = getMax(data);
+            int maxDigit = (int)Math.Floor(Math.Log10(maxValue) + 1);
 
+            Queue[] q = new ArrayQueue[10]; // สร้าง array ที่เก็บได้ 10 ArrayQueue
+            for (int i = 0; i < q.Length; i++)
+                q[i] = new ArrayQueue(1); // สร้าง ArrayQueue แต่ละตัวใน array
+            for (int k = 0; k < maxDigit; k++)
+            {
+                for (int i = 0; i < data.Length; i++) 
+                    q[getDigit(data[i], k)].enqueue(data[i]); //นำข้อมูลแต่ละตัวใน data[] โดยคิดตามหลักที่ k ลงถัง q 
+                for (int i = 0, j = 0; i < q.Length; i++)
+                {
+                    while (!q[i].isEmpty()) //dequeue ในถัง q มาใส่ data[] เหมือนเดิม
+                        data[j++] = (int)q[i].dequeue();
+                }
+                Console.WriteLine("After sorting digit (" + (k + 1) + ") : " + string.Join(", ", data));
+            }
+            Console.WriteLine("Sorting completed : " + string.Join(", ", data));
+
+        }
+ 
+        private static int getMax(int[] data)
+        {
+            int max = data[0];
+            for (int i = 0; i < data.Length; i++)
+            {
+                if (data[i] > max)
+                    max = data[i];
+            }
+            return max;
+        }
+        private static int getDigit(int n, int k)
+        {
+            for (int i = 0; i < k; i++) 
+                n /= 10;
+            return n % 10;        
+        }    
         
 
     }
+
 }
 

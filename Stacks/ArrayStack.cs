@@ -84,23 +84,18 @@ namespace Stacks
         }
 
 
-        //                                
-        private static String operators = "+-*/^()";
-        //private static String operatorx = "+-*/^";
+                             
+        private static String operators = "+-*/^()"; 
 
-
-        private static int[] priority = { 1, 1, 2, 2, 3 };
         // หลักการ Priority มากกว่าจะทำการ push และดำเนินการก่อน
         //                                   +  -  *  /  ^  (   )
         private static int[] OutPriority = { 2, 2, 3, 3, 5, 6, 1 };
         private static int[] InPriority = { 2, 2, 3, 3, 4, 0};
         private static bool isOperator(String input)
         {
-            //String operators = "+-*/^"; จะเรียกทุกครั้งที่ใช้ method นี้ จึงกำหนดข้างบนดีกว่า
             return operators.IndexOf(input) >= 0;
            
         }
-
         // priority น้อยกว่าหรือเท่ากับ push stack
         // priority มากกว่า add list
         // Priority((String)x.peek()) >= p
@@ -113,11 +108,6 @@ namespace Stacks
             return OutPriority[operators.IndexOf(input)];
         }
 
-        private static int Priority(String input)
-        {
-            return priority[operators.IndexOf(input)];
-        }
-            
 
         public static List InfixToPostfix(List infix)
         {
@@ -156,7 +146,47 @@ namespace Stacks
             return postfix;         
         }
 
-     
+
+        public static List ConvertInfixToPostfix3(List x)
+        {
+            List postfix = new ArrayList(x.size());
+            Stack c = new ArrayStack(x.size());
+            for (int i = 0; i < x.size(); i++)
+            {
+                String b = (String)x.get(i);
+                if (!isOperator(b))
+                {
+                    postfix.add(b);
+                }
+                else
+                {
+                    int s = outPriority(b);
+                    while (!c.isEmpty() && inPriority((String)c.peek()) >= s)
+                    {
+                        postfix.add(c.pop());
+                    }
+                    if (b.Equals(")"))
+                    {
+                        c.pop();
+
+                    }
+                    else
+                    {
+                        c.push(b);
+                    }
+
+
+                }
+            }
+            while (!c.isEmpty())
+            {
+                postfix.add(c.pop());
+            }
+            return postfix;
+
+
+        }
+
 
 
 
