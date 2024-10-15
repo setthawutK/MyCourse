@@ -11,3 +11,9 @@ D:\DLOAD\DataStructure\Queues\obj\Debug\Queues.csproj.CoreCompileInputs.cache
 D:\DLOAD\DataStructure\Queues\obj\Debug\Queues.csproj.Up2Date
 D:\DLOAD\DataStructure\Queues\obj\Debug\Queues.exe
 D:\DLOAD\DataStructure\Queues\obj\Debug\Queues.pdb
+D:\DLOAD\DataStructure\Queues\bin\Debug\LinkedListGUI.exe
+D:\DLOAD\DataStructure\Queues\bin\Debug\Set.exe
+D:\DLOAD\DataStructure\Queues\bin\Debug\LinkedListGUI.pdb
+D:\DLOAD\DataStructure\Queues\bin\Debug\LinkedListGUI.exe.config
+D:\DLOAD\DataStructure\Queues\bin\Debug\Set.pdb
+D:\DLOAD\DataStructure\Queues\bin\Debug\Set.exe.config

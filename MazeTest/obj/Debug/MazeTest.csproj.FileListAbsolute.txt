@@ -1,0 +1,16 @@
+D:\DLOAD\DataStructure\MazeTest\obj\Debug\MazeTest.csproj.AssemblyReference.cache
+D:\DLOAD\DataStructure\MazeTest\obj\Debug\MazeTest.csproj.CoreCompileInputs.cache
+D:\DLOAD\DataStructure\MazeTest\bin\Debug\MazeTest.exe.config
+D:\DLOAD\DataStructure\MazeTest\bin\Debug\MazeTest.exe
+D:\DLOAD\DataStructure\MazeTest\bin\Debug\MazeTest.pdb
+D:\DLOAD\DataStructure\MazeTest\bin\Debug\Stacks.exe
+D:\DLOAD\DataStructure\MazeTest\bin\Debug\Lists.exe
+D:\DLOAD\DataStructure\MazeTest\bin\Debug\Collections.dll
+D:\DLOAD\DataStructure\MazeTest\bin\Debug\Stacks.pdb
+D:\DLOAD\DataStructure\MazeTest\bin\Debug\Stacks.exe.config
+D:\DLOAD\DataStructure\MazeTest\bin\Debug\Lists.pdb
+D:\DLOAD\DataStructure\MazeTest\bin\Debug\Lists.exe.config
+D:\DLOAD\DataStructure\MazeTest\bin\Debug\Collections.pdb
+D:\DLOAD\DataStructure\MazeTest\obj\Debug\MazeTest.csproj.Up2Date
+D:\DLOAD\DataStructure\MazeTest\obj\Debug\MazeTest.exe
+D:\DLOAD\DataStructure\MazeTest\obj\Debug\MazeTest.pdb

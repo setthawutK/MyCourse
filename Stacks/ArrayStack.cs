@@ -93,8 +93,7 @@ namespace Stacks
         private static int[] InPriority = { 2, 2, 3, 3, 4, 0};
         private static bool isOperator(String input)
         {
-            return operators.IndexOf(input) >= 0;
-           
+            return operators.IndexOf(input) >= 0;         
         }
         // priority น้อยกว่าหรือเท่ากับ push stack
         // priority มากกว่า add list
@@ -147,57 +146,15 @@ namespace Stacks
         }
 
 
-        public static List ConvertInfixToPostfix3(List x)
-        {
-            List postfix = new ArrayList(x.size());
-            Stack c = new ArrayStack(x.size());
-            for (int i = 0; i < x.size(); i++)
-            {
-                String b = (String)x.get(i);
-                if (!isOperator(b))
-                {
-                    postfix.add(b);
-                }
-                else
-                {
-                    int s = outPriority(b);
-                    while (!c.isEmpty() && inPriority((String)c.peek()) >= s)
-                    {
-                        postfix.add(c.pop());
-                    }
-                    if (b.Equals(")"))
-                    {
-                        c.pop();
-
-                    }
-                    else
-                    {
-                        c.push(b);
-                    }
-
-
-                }
-            }
-            while (!c.isEmpty())
-            {
-                postfix.add(c.pop());
-            }
-            return postfix;
-
-
-        }
-
-
-
-
-        private static void showPostfix(List x)
+        private static void showPostfix(List x) //แสดง Postfix
         {
             for (int i = 0; i < x.size(); i++)
                 Console.Write(" " + x.get(i));
             Console.WriteLine();
         }
 
-        private static void calculatePostfix(List p)
+
+        private static void calculatePostfix(List p) //คำนวน Postfix
         {
             Stack x = new ArrayStack(p.size());
 

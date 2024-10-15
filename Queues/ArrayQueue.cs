@@ -95,17 +95,18 @@ namespace Queues
             int maxValue = getMax(data);
             int maxDigit = (int)Math.Floor(Math.Log10(maxValue) + 1);
 
-            Queue[] q = new ArrayQueue[10]; // สร้าง array ที่เก็บได้ 10 ArrayQueue
+            Queue[] q = new ArrayQueue[10]; // สร้างถัง array ที่เก็บได้ 10 ArrayQueue
             for (int i = 0; i < q.Length; i++)
-                q[i] = new ArrayQueue(1); // สร้าง ArrayQueue แต่ละตัวใน array
+                q[i] = new ArrayQueue(1); // สร้าง ArrayQueue แต่ละตัวในถัง array
             for (int k = 0; k < maxDigit; k++)
             {
                 for (int i = 0; i < data.Length; i++) 
-                    q[getDigit(data[i], k)].enqueue(data[i]); //นำข้อมูลแต่ละตัวใน data[] โดยคิดตามหลักที่ k ลงถัง q 
-                for (int i = 0, j = 0; i < q.Length; i++)
+                    q[getDigit(data[i], k)].enqueue(data[i]); // k คือ digit ในรอบนั้นๆ //นำข้อมูลแต่ละตัวใน data[] โดยคิดตามหลักที่ k ลงถัง q 
+                for (int i = 0, j = 0; i < q.Length; i++) // loop หาถังไปเรื่อยๆ
                 {
                     while (!q[i].isEmpty()) //dequeue ในถัง q มาใส่ data[] เหมือนเดิม
-                        data[j++] = (int)q[i].dequeue();
+                        data[j++] = (int)q[i].dequeue(); //data[j++] (j++คือทำทีหลัง) เพราะต้องการให้ขณะ while loop dequeue ข้อมูลมาใส่ data[0],data[1],...
+                                                         //จะออกมาเป็น int[] data = [ q[0].dequeue(), q[1].dequeue(), ...]
                 }
                 Console.WriteLine("After sorting digit (" + (k + 1) + ") : " + string.Join(", ", data));
             }
@@ -130,8 +131,9 @@ namespace Queues
             return n % 10;        
         }    
         
+        
 
     }
-
+  
 }
 

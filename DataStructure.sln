@@ -19,6 +19,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stacks", "Stacks\Stacks.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queues", "Queues\Queues.csproj", "{84FB46A5-C0F1-4D21-88F2-D344C1BE920F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MazeTest", "MazeTest\MazeTest.csproj", "{393A8FB7-FFB2-4D9E-B333-09E6CF022C7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MazeGUINO2", "MazeGUINO2\MazeGUINO2.csproj", "{63FEE38F-AB66-449E-AB28-6643AAE6E7E1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +61,14 @@ Global
 		{84FB46A5-C0F1-4D21-88F2-D344C1BE920F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{84FB46A5-C0F1-4D21-88F2-D344C1BE920F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{84FB46A5-C0F1-4D21-88F2-D344C1BE920F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{393A8FB7-FFB2-4D9E-B333-09E6CF022C7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{393A8FB7-FFB2-4D9E-B333-09E6CF022C7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{393A8FB7-FFB2-4D9E-B333-09E6CF022C7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{393A8FB7-FFB2-4D9E-B333-09E6CF022C7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63FEE38F-AB66-449E-AB28-6643AAE6E7E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63FEE38F-AB66-449E-AB28-6643AAE6E7E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63FEE38F-AB66-449E-AB28-6643AAE6E7E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63FEE38F-AB66-449E-AB28-6643AAE6E7E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

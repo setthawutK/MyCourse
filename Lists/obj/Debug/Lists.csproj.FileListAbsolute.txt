@@ -1,13 +1,3 @@
-D:\DLOAD\DataStructure\Lists\bin\Debug\Lists.exe.config
-D:\DLOAD\DataStructure\Lists\bin\Debug\Lists.exe
-D:\DLOAD\DataStructure\Lists\bin\Debug\Lists.pdb
-D:\DLOAD\DataStructure\Lists\bin\Debug\Collections.dll
-D:\DLOAD\DataStructure\Lists\bin\Debug\Collections.pdb
-D:\DLOAD\DataStructure\Lists\obj\Debug\Lists.csproj.AssemblyReference.cache
-D:\DLOAD\DataStructure\Lists\obj\Debug\Lists.csproj.CoreCompileInputs.cache
-D:\DLOAD\DataStructure\Lists\obj\Debug\Lists.csproj.Up2Date
-D:\DLOAD\DataStructure\Lists\obj\Debug\Lists.exe
-D:\DLOAD\DataStructure\Lists\obj\Debug\Lists.pdb
 C:\Users\6652300923\Desktop\DataStructure\Lists\bin\Debug\Lists.exe.config
 C:\Users\6652300923\Desktop\DataStructure\Lists\bin\Debug\Lists.exe
 C:\Users\6652300923\Desktop\DataStructure\Lists\bin\Debug\Lists.pdb
@@ -18,3 +8,13 @@ C:\Users\6652300923\Desktop\DataStructure\Lists\obj\Debug\Lists.csproj.CoreCompi
 C:\Users\6652300923\Desktop\DataStructure\Lists\obj\Debug\Lists.csproj.Up2Date
 C:\Users\6652300923\Desktop\DataStructure\Lists\obj\Debug\Lists.exe
 C:\Users\6652300923\Desktop\DataStructure\Lists\obj\Debug\Lists.pdb
+D:\DLOAD\DataStructure\Lists\bin\Debug\Lists.exe.config
+D:\DLOAD\DataStructure\Lists\bin\Debug\Lists.exe
+D:\DLOAD\DataStructure\Lists\bin\Debug\Lists.pdb
+D:\DLOAD\DataStructure\Lists\bin\Debug\Collections.dll
+D:\DLOAD\DataStructure\Lists\bin\Debug\Collections.pdb
+D:\DLOAD\DataStructure\Lists\obj\Debug\Lists.csproj.AssemblyReference.cache
+D:\DLOAD\DataStructure\Lists\obj\Debug\Lists.csproj.CoreCompileInputs.cache
+D:\DLOAD\DataStructure\Lists\obj\Debug\Lists.csproj.Up2Date
+D:\DLOAD\DataStructure\Lists\obj\Debug\Lists.exe
+D:\DLOAD\DataStructure\Lists\obj\Debug\Lists.pdb

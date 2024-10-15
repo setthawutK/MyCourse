@@ -46,6 +46,7 @@
     <Compile Include="ArrayQueue.cs" />
     <Compile Include="ArrayListQueue.cs" />
     <Compile Include="LinkedListQueue.cs" />
+    <Compile Include="Maze.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Queue.cs" />
@@ -57,6 +58,10 @@
     <ProjectReference Include="..\Collections\Collections.csproj">
       <Project>{7fc894e6-27f7-427b-a599-e394d306b065}</Project>
       <Name>Collections</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\LinkedListGUI\GUI.csproj">
+      <Project>{4e93393c-98ea-487f-8107-78b1f9019b4d}</Project>
+      <Name>GUI</Name>
     </ProjectReference>
     <ProjectReference Include="..\Lists\Lists.csproj">
       <Project>{edc04dc8-72a3-40d6-9039-7d15e6cb93e4}</Project>
