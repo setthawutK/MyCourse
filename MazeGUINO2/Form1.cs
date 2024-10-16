@@ -2,6 +2,7 @@
 using System;
 using System.Collections.Generic;
 using System.Drawing;
+using System.IO;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
@@ -12,8 +13,8 @@ namespace MazeGUINO2
         private static char[,] maze1 = new char[,] //ไม่ต้องลบไว้เปลี่ยน maze
         {
             { '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1'},
-            { '1', 'E', '1', '1', '1', '0', '1', '1', '0', '0', '1'},
-            { '1', '0', '1', '1', '1', '0', '1', '1', '0', '1', '1'},
+            { '1', 'E', '1', '1', '0', '0', '1', '0', '0', '0', '1'},
+            { '1', '0', '1', '1', '1', '0', '1', '0', '1', '1', '1'},
             { '1', '0', '1', '0', '0', '0', '0', '0', '0', 'S', '1'},
             { '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1'}
         };
@@ -21,11 +22,11 @@ namespace MazeGUINO2
         private static char[,] maze = new char[,]
              {
                 { '1', 'E', '1', '1', '1', '1', '1', '1', '1', '1', '1'},
-                { '1', '0', '1', '1', '0', '0', '1', '0', '1', '0', '1'},
+                { '1', '0', '1', '1', '0', '0', '1', '0', '0', '0', '1'},
                 { '1', '0', '1', '0', '0', '1', '0', '0', '1', '0', '1'},
-                { '1', '0', '1', '1', '0', '0', '1', '1', '0', '0', '1'},
-                { '1', '0', '1', '0', '0', '0', '1', '0', '1', '0', '1'},
-                { '1', '0', '1', '0', '1', '0', '0', '0', '1', 'S', '1'},
+                { '1', '0', '1', '1', '0', '0', '1', '0', '1', '0', '1'},
+                { '1', '0', '1', '1', '0', '0', '1', '0', '1', '0', '1'},
+                { '1', '0', '1', '1', '1', '0', '0', '0', '1', 'S', '1'},
                 { '1', '1', '1', '1', '1', '1', '1', '1', '1', '1', '1'}
             };
 
@@ -92,13 +93,17 @@ namespace MazeGUINO2
             Pos current = start;
             int i = current.row;
             int j = current.col;
-
+            path.push(new Pos(i, j));
             while (maze[i, j] != 'E')
             {
 
+                Pos Path = (Pos)path.peek();
+              
+
                 maze[i, j] = 'S';
-                
-                path.push(new Pos(i, j)); 
+                path.push(new Pos(i, j));
+
+
 
 
                 DisplayMaze();
@@ -122,7 +127,6 @@ namespace MazeGUINO2
                     i = update.row;
                     j = update.col;
 
-
                 }
                 else
                 {
@@ -136,7 +140,11 @@ namespace MazeGUINO2
 
                     if (IsConnect(new Pos(i, j), lastPos)== true)
                     {
-                  
+                        maze[lastPos.row, lastPos.col] = 'S';
+                        DisplayMaze();
+                        await Task.Delay(300);
+                        maze[lastPos.row, lastPos.col] = '.';    
+                        
                         break; 
                     }
 
@@ -146,9 +154,9 @@ namespace MazeGUINO2
                     DisplayMaze();
                     await Task.Delay(300);
                     maze[lastPos.row, lastPos.col] = '.';
-
-                    //maze[lastPos.row, lastPos.col] = '.'; 
+        
                 }
+                
 
             }
             if (maze[i, j] == 'E') 

@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{63FEE38F-AB66-449E-AB28-6643AAE6E7E1}|MazeGUINO2\\MazeGUINO2.csproj|solutionrelative:mazeguino2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9042858C-ED43-4B27-BD64-AC6CF2444CF6}|Stacks\\Stacks.csproj|d:\\dload\\datastructure\\stacks\\arraystack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9042858C-ED43-4B27-BD64-AC6CF2444CF6}|Stacks\\Stacks.csproj|D:\\DLOAD\\DataStructure\\stacks\\arraystack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9042858C-ED43-4B27-BD64-AC6CF2444CF6}|Stacks\\Stacks.csproj|solutionrelative:stacks\\arraystack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "Stacks\\ArrayStack.cs",
               "ToolTip": "D:\\DLOAD\\DataStructure\\Stacks\\ArrayStack.cs",
               "RelativeToolTip": "Stacks\\ArrayStack.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAUwCkAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAuwBkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-15T11:34:29.714Z",
               "EditorCaption": ""
@@ -61,7 +61,7 @@
               "RelativeDocumentMoniker": "MazeGUINO2\\Form1.cs",
               "ToolTip": "D:\\DLOAD\\DataStructure\\MazeGUINO2\\Form1.cs*",
               "RelativeToolTip": "MazeGUINO2\\Form1.cs*",
-              "ViewState": "AgIAAHQAAAAAAAAAAAAiwJcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-14T20:08:32.88Z",
               "EditorCaption": ""
@@ -76,8 +76,7 @@
               "RelativeToolTip": "MazeTest\\Maze.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAQwBoAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T15:06:35.93Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T15:06:35.93Z"
             }
           ]
         }
