@@ -11,13 +11,13 @@ namespace Stacks
     {
         static void Main(string[] args)
         {
-            //String[] d = { "(", "1", "+", "2", ")", "*", "4" };
+            String[] d = {"(","1", "+", "2",")", "*", "4" };
             List x = new LinkedList();
-            //for (int i = 0; i < d.Length; i++)
-            //{
-                //x.add(d[i]);
-            //}
-            x.add("("); x.add("1"); x.add("+"); x.add("2"); x.add(")"); x.add("*"); x.add("4");  
+            for (int i = 0; i < d.Length; i++)
+            {
+                x.add(d[i]);
+            }
+           // x.add("("); x.add("1"); x.add("+"); x.add("2"); x.add(")"); x.add("*"); x.add("4");  
             ArrayStack.InfixToPostfix(x);
             //ArrayStack.ConvertInfixToPostfix3(x);
             Console.ReadLine();

@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "D:\\DLOAD\\DataStructure\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{63FEE38F-AB66-449E-AB28-6643AAE6E7E1}|MazeGUINO2\\MazeGUINO2.csproj|d:\\dload\\datastructure\\mazeguino2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63FEE38F-AB66-449E-AB28-6643AAE6E7E1}|MazeGUINO2\\MazeGUINO2.csproj|solutionrelative:mazeguino2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{84FB46A5-C0F1-4D21-88F2-D344C1BE920F}|Queues\\Queues.csproj|d:\\dload\\datastructure\\queues\\arraylistpriorityqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84FB46A5-C0F1-4D21-88F2-D344C1BE920F}|Queues\\Queues.csproj|solutionrelative:queues\\arraylistpriorityqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9042858C-ED43-4B27-BD64-AC6CF2444CF6}|Stacks\\Stacks.csproj|D:\\DLOAD\\DataStructure\\stacks\\arraystack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9042858C-ED43-4B27-BD64-AC6CF2444CF6}|Stacks\\Stacks.csproj|solutionrelative:stacks\\arraystack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{84FB46A5-C0F1-4D21-88F2-D344C1BE920F}|Queues\\Queues.csproj|D:\\DLOAD\\DataStructure\\queues\\priorityqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84FB46A5-C0F1-4D21-88F2-D344C1BE920F}|Queues\\Queues.csproj|solutionrelative:queues\\priorityqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84FB46A5-C0F1-4D21-88F2-D344C1BE920F}|Queues\\Queues.csproj|D:\\DLOAD\\DataStructure\\queues\\arraylistqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84FB46A5-C0F1-4D21-88F2-D344C1BE920F}|Queues\\Queues.csproj|solutionrelative:queues\\arraylistqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63FEE38F-AB66-449E-AB28-6643AAE6E7E1}|MazeGUINO2\\MazeGUINO2.csproj|D:\\DLOAD\\DataStructure\\mazeguino2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63FEE38F-AB66-449E-AB28-6643AAE6E7E1}|MazeGUINO2\\MazeGUINO2.csproj|solutionrelative:mazeguino2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{393A8FB7-FFB2-4D9E-B333-09E6CF022C7E}|MazeTest\\MazeTest.csproj|D:\\DLOAD\\DataStructure\\mazetest\\maze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,6 +25,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{63FEE38F-AB66-449E-AB28-6643AAE6E7E1}|MazeGUINO2\\MazeGUINO2.csproj|D:\\DLOAD\\DataStructure\\mazeguino2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{63FEE38F-AB66-449E-AB28-6643AAE6E7E1}|MazeGUINO2\\MazeGUINO2.csproj|solutionrelative:mazeguino2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63FEE38F-AB66-449E-AB28-6643AAE6E7E1}|MazeGUINO2\\MazeGUINO2.csproj|D:\\DLOAD\\DataStructure\\mazeguino2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63FEE38F-AB66-449E-AB28-6643AAE6E7E1}|MazeGUINO2\\MazeGUINO2.csproj|solutionrelative:mazeguino2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9042858C-ED43-4B27-BD64-AC6CF2444CF6}|Stacks\\Stacks.csproj|D:\\DLOAD\\DataStructure\\stacks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9042858C-ED43-4B27-BD64-AC6CF2444CF6}|Stacks\\Stacks.csproj|solutionrelative:stacks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,49 +42,95 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ArrayStack.cs",
-              "DocumentMoniker": "D:\\DLOAD\\DataStructure\\Stacks\\ArrayStack.cs",
-              "RelativeDocumentMoniker": "Stacks\\ArrayStack.cs",
-              "ToolTip": "D:\\DLOAD\\DataStructure\\Stacks\\ArrayStack.cs",
-              "RelativeToolTip": "Stacks\\ArrayStack.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAuwBkAAAAMAAAAAAAAAA==",
+              "Title": "PriorityQueue.cs",
+              "DocumentMoniker": "D:\\DLOAD\\DataStructure\\Queues\\PriorityQueue.cs",
+              "RelativeDocumentMoniker": "Queues\\PriorityQueue.cs",
+              "ToolTip": "D:\\DLOAD\\DataStructure\\Queues\\PriorityQueue.cs",
+              "RelativeToolTip": "Queues\\PriorityQueue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T11:34:29.714Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\DLOAD\\DataStructure\\MazeGUINO2\\Form1.cs",
-              "RelativeDocumentMoniker": "MazeGUINO2\\Form1.cs",
-              "ToolTip": "D:\\DLOAD\\DataStructure\\MazeGUINO2\\Form1.cs [Design]*",
-              "RelativeToolTip": "MazeGUINO2\\Form1.cs [Design]*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T20:29:00.709Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-10-23T09:25:18.971Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\DLOAD\\DataStructure\\MazeGUINO2\\Form1.cs",
-              "RelativeDocumentMoniker": "MazeGUINO2\\Form1.cs",
-              "ToolTip": "D:\\DLOAD\\DataStructure\\MazeGUINO2\\Form1.cs*",
-              "RelativeToolTip": "MazeGUINO2\\Form1.cs*",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAeAAAAAAAAAA==",
+              "Title": "ArrayListPriorityQueue.cs",
+              "DocumentMoniker": "D:\\DLOAD\\DataStructure\\Queues\\ArrayListPriorityQueue.cs",
+              "RelativeDocumentMoniker": "Queues\\ArrayListPriorityQueue.cs",
+              "ToolTip": "D:\\DLOAD\\DataStructure\\Queues\\ArrayListPriorityQueue.cs",
+              "RelativeToolTip": "Queues\\ArrayListPriorityQueue.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwC4AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T20:08:32.88Z",
+              "WhenOpened": "2024-10-23T09:21:23.522Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "ArrayListQueue.cs",
+              "DocumentMoniker": "D:\\DLOAD\\DataStructure\\Queues\\ArrayListQueue.cs",
+              "RelativeDocumentMoniker": "Queues\\ArrayListQueue.cs",
+              "ToolTip": "D:\\DLOAD\\DataStructure\\Queues\\ArrayListQueue.cs",
+              "RelativeToolTip": "Queues\\ArrayListQueue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T09:20:05.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DLOAD\\DataStructure\\Stacks\\Program.cs",
+              "RelativeDocumentMoniker": "Stacks\\Program.cs",
+              "ToolTip": "D:\\DLOAD\\DataStructure\\Stacks\\Program.cs",
+              "RelativeToolTip": "Stacks\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T04:59:08.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\DLOAD\\DataStructure\\MazeGUINO2\\Form1.cs",
+              "RelativeDocumentMoniker": "MazeGUINO2\\Form1.cs",
+              "ToolTip": "D:\\DLOAD\\DataStructure\\MazeGUINO2\\Form1.cs [Design]",
+              "RelativeToolTip": "MazeGUINO2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T20:29:00.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\DLOAD\\DataStructure\\MazeGUINO2\\Form1.cs",
+              "RelativeDocumentMoniker": "MazeGUINO2\\Form1.cs",
+              "ToolTip": "D:\\DLOAD\\DataStructure\\MazeGUINO2\\Form1.cs",
+              "RelativeToolTip": "MazeGUINO2\\Form1.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAHAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T20:08:32.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DLOAD\\DataStructure\\MazeGUINO2\\Program.cs",
+              "RelativeDocumentMoniker": "MazeGUINO2\\Program.cs",
+              "ToolTip": "D:\\DLOAD\\DataStructure\\MazeGUINO2\\Program.cs",
+              "RelativeToolTip": "MazeGUINO2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T05:08:09.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Maze.cs",
               "DocumentMoniker": "D:\\DLOAD\\DataStructure\\MazeTest\\Maze.cs",
               "RelativeDocumentMoniker": "MazeTest\\Maze.cs",

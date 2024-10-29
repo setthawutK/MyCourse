@@ -187,6 +187,8 @@ namespace Stacks
                         case 4: // "^"
                             res = Math.Pow(a, b);
                             break;
+                        default :
+                            break;
                     }
                     x.push(res);
                  

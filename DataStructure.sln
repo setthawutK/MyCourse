@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MazeTest", "MazeTest\MazeTe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MazeGUINO2", "MazeGUINO2\MazeGUINO2.csproj", "{63FEE38F-AB66-449E-AB28-6643AAE6E7E1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinBinaryHeap", "MinBinaryHeap\MinBinaryHeap.csproj", "{9139FD89-88A2-4F8C-88E5-842E0A735FCE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{63FEE38F-AB66-449E-AB28-6643AAE6E7E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{63FEE38F-AB66-449E-AB28-6643AAE6E7E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{63FEE38F-AB66-449E-AB28-6643AAE6E7E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9139FD89-88A2-4F8C-88E5-842E0A735FCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9139FD89-88A2-4F8C-88E5-842E0A735FCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9139FD89-88A2-4F8C-88E5-842E0A735FCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9139FD89-88A2-4F8C-88E5-842E0A735FCE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
