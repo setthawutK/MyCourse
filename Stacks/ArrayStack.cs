@@ -197,6 +197,109 @@ namespace Stacks
             Console.WriteLine(" result : " + x.pop());
         }
 
+        public static bool isPalindrome(string s)
+        {
+            Stack stack = new ArrayStack(s.Length);
+            string result = "";
+            for ( int i = 0; i < s.Length; i++)
+                stack.push(s[i]);
+            while (!stack.isEmpty())
+            {
+                result += stack.pop();
+                
+            }
+            Console.WriteLine(s);
+            Console.WriteLine(result);    
+            return result == s;
+        
+        }
+        
+        public static bool isPalindromeNumber(int x)
+        {
+            if (x < 0) return false;
+            long reversed = 0;
+            long temp = x; //121
+            while (temp != 0)
+            {
+                reversed = (reversed * 10) + (temp % 10); // 1,12,121
+                temp /= 10; //12,1,0
+            }
+            Console.WriteLine(x);
+            Console.WriteLine(reversed);
+            return reversed == x;
+        }
+
+        public bool isPalindromeNumber2(int x)
+        {
+
+            if (x < 0) return false;
+
+            string str = x.ToString();
+            Stack<char> stack = new Stack<char>();
+            string result = "";
+            for (int i = 0; i < str.Length; i++)
+                stack.Push(str[i]);
+            while (stack.Count > 0)
+                result += stack.Pop();
+            return result == str;
+
+        }
+        public static bool IsPalindrome(string s)
+        {
+            int left = 0;
+            int right = s.Length - 1;
+
+            while (left < right)
+            {
+                if (Char.ToLower(s[left]) == Char.ToLower(s[right]))
+                {
+                    left++;
+                    right--;
+                }
+                else if (!Char.IsLetterOrDigit(s[left]))
+                    left++;
+                else if (!Char.IsLetterOrDigit(s[right]))
+                    right--;
+                else return false;
+            }
+            return true;
+        }
+
+        public static int[] TwoSum(int[] nums, int target)
+        {
+            int n = nums.Length;
+            for (int i = 0; i < n - 1; i++){
+                for (int j = i + 1; j < n; j++)
+                    if (nums[i] + nums[j] == target)
+                        return new int[] { i, j };                
+            }
+            return new int[] { };
+        }
+
+
+        public static int[] TwoSum2(int[] nums, int target)
+        {
+            Dictionary<int, int> map = new Dictionary<int, int>();
+
+            for (int i = 0; i < nums.Length; i++)
+            {
+                int complement = target - nums[i];
+                if (map.ContainsKey(complement))
+                    return new int[] { map[complement], i };
+                map[nums[i]] = i;
+            }
+            throw new InvalidOperationException("No two sum solution");
+        }
+
+        public static int Fibonacci(int n)
+        {
+            if (n <= 1)
+                return n;
+            else
+                return Fibonacci(n - 1) + Fibonacci(n - 2);
+        }
+
+       
 
     }
 }

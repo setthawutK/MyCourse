@@ -3,24 +3,120 @@
   "WorkspaceRootPath": "D:\\DLOAD\\DataStructure\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{84FB46A5-C0F1-4D21-88F2-D344C1BE920F}|Queues\\Queues.csproj|d:\\dload\\datastructure\\queues\\arraylistpriorityqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84FB46A5-C0F1-4D21-88F2-D344C1BE920F}|Queues\\Queues.csproj|solutionrelative:queues\\arraylistpriorityqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9042858C-ED43-4B27-BD64-AC6CF2444CF6}|Stacks\\Stacks.csproj|D:\\DLOAD\\DataStructure\\stacks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9042858C-ED43-4B27-BD64-AC6CF2444CF6}|Stacks\\Stacks.csproj|solutionrelative:stacks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84FB46A5-C0F1-4D21-88F2-D344C1BE920F}|Queues\\Queues.csproj|D:\\DLOAD\\DataStructure\\queues\\priorityqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84FB46A5-C0F1-4D21-88F2-D344C1BE920F}|Queues\\Queues.csproj|solutionrelative:queues\\priorityqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9042858C-ED43-4B27-BD64-AC6CF2444CF6}|Stacks\\Stacks.csproj|D:\\DLOAD\\DataStructure\\stacks\\arraystack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9042858C-ED43-4B27-BD64-AC6CF2444CF6}|Stacks\\Stacks.csproj|solutionrelative:stacks\\arraystack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84FB46A5-C0F1-4D21-88F2-D344C1BE920F}|Queues\\Queues.csproj|d:\\dload\\datastructure\\queues\\arrayqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84FB46A5-C0F1-4D21-88F2-D344C1BE920F}|Queues\\Queues.csproj|solutionrelative:queues\\arrayqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{84FB46A5-C0F1-4D21-88F2-D344C1BE920F}|Queues\\Queues.csproj|D:\\DLOAD\\DataStructure\\queues\\arraylistqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84FB46A5-C0F1-4D21-88F2-D344C1BE920F}|Queues\\Queues.csproj|solutionrelative:queues\\arraylistqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63FEE38F-AB66-449E-AB28-6643AAE6E7E1}|MazeGUINO2\\MazeGUINO2.csproj|D:\\DLOAD\\DataStructure\\mazeguino2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63FEE38F-AB66-449E-AB28-6643AAE6E7E1}|MazeGUINO2\\MazeGUINO2.csproj|solutionrelative:mazeguino2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{683F12CA-7B72-4CAC-81BB-F9CBEEB3CFB1}|Puzzle15\\Puzzle15.csproj|d:\\dload\\datastructure\\puzzle15\\puzzle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{683F12CA-7B72-4CAC-81BB-F9CBEEB3CFB1}|Puzzle15\\Puzzle15.csproj|solutionrelative:puzzle15\\puzzle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{393A8FB7-FFB2-4D9E-B333-09E6CF022C7E}|MazeTest\\MazeTest.csproj|D:\\DLOAD\\DataStructure\\mazetest\\maze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{393A8FB7-FFB2-4D9E-B333-09E6CF022C7E}|MazeTest\\MazeTest.csproj|solutionrelative:mazetest\\maze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{683F12CA-7B72-4CAC-81BB-F9CBEEB3CFB1}|Puzzle15\\Puzzle15.csproj|d:\\dload\\datastructure\\puzzle15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{683F12CA-7B72-4CAC-81BB-F9CBEEB3CFB1}|Puzzle15\\Puzzle15.csproj|solutionrelative:puzzle15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E588D609-7210-4A62-B872-3894B40526FA}|Test\\Test.csproj|d:\\dload\\datastructure\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E588D609-7210-4A62-B872-3894B40526FA}|Test\\Test.csproj|solutionrelative:test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12B07C90-A117-433F-B370-8E3441A9DE18}|BinaryTree\\Trees.csproj|d:\\dload\\datastructure\\binarytree\\binarysearchtree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12B07C90-A117-433F-B370-8E3441A9DE18}|BinaryTree\\Trees.csproj|solutionrelative:binarytree\\binarysearchtree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C9F5AE-A5DA-4F70-84CC-5159FBD57A90}|Set\\Sets.csproj|d:\\dload\\datastructure\\set\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C9F5AE-A5DA-4F70-84CC-5159FBD57A90}|Set\\Sets.csproj|solutionrelative:set\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF38F94A-70BF-49C3-B7D5-41A9E23252D9}|Sortings\\Sortings.csproj|D:\\DLOAD\\DataStructure\\sortings\\sorting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF38F94A-70BF-49C3-B7D5-41A9E23252D9}|Sortings\\Sortings.csproj|solutionrelative:sortings\\sorting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12B07C90-A117-433F-B370-8E3441A9DE18}|BinaryTree\\Trees.csproj|D:\\DLOAD\\DataStructure\\binarytree\\binarytree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12B07C90-A117-433F-B370-8E3441A9DE18}|BinaryTree\\Trees.csproj|solutionrelative:binarytree\\binarytree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12B07C90-A117-433F-B370-8E3441A9DE18}|BinaryTree\\Trees.csproj|D:\\DLOAD\\DataStructure\\binarytree\\expression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12B07C90-A117-433F-B370-8E3441A9DE18}|BinaryTree\\Trees.csproj|solutionrelative:binarytree\\expression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD73E0F-F0A5-43AE-9190-23DF77F9A2EF}|PriorityQueue\\PriorityQueues.csproj|D:\\DLOAD\\DataStructure\\priorityqueue\\binaryminheap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD73E0F-F0A5-43AE-9190-23DF77F9A2EF}|PriorityQueue\\PriorityQueues.csproj|solutionrelative:priorityqueue\\binaryminheap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD73E0F-F0A5-43AE-9190-23DF77F9A2EF}|PriorityQueue\\PriorityQueues.csproj|D:\\DLOAD\\DataStructure\\priorityqueue\\binaryheap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD73E0F-F0A5-43AE-9190-23DF77F9A2EF}|PriorityQueue\\PriorityQueues.csproj|solutionrelative:priorityqueue\\binaryheap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC04DC8-72A3-40D6-9039-7D15E6CB93E4}|Lists\\Lists.csproj|D:\\DLOAD\\DataStructure\\lists\\linkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC04DC8-72A3-40D6-9039-7D15E6CB93E4}|Lists\\Lists.csproj|solutionrelative:lists\\linkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC04DC8-72A3-40D6-9039-7D15E6CB93E4}|Lists\\Lists.csproj|D:\\DLOAD\\DataStructure\\lists\\singlylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC04DC8-72A3-40D6-9039-7D15E6CB93E4}|Lists\\Lists.csproj|solutionrelative:lists\\singlylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12B07C90-A117-433F-B370-8E3441A9DE18}|BinaryTree\\Trees.csproj|D:\\DLOAD\\DataStructure\\binarytree\\huffmantree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12B07C90-A117-433F-B370-8E3441A9DE18}|BinaryTree\\Trees.csproj|solutionrelative:binarytree\\huffmantree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12B07C90-A117-433F-B370-8E3441A9DE18}|BinaryTree\\BinaryTrees.csproj|D:\\DLOAD\\DataStructure\\binarytree\\binarytree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12B07C90-A117-433F-B370-8E3441A9DE18}|BinaryTree\\BinaryTrees.csproj|solutionrelative:binarytree\\binarytree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9042858C-ED43-4B27-BD64-AC6CF2444CF6}|Stacks\\Stacks.csproj|D:\\DLOAD\\DataStructure\\stacks\\linkedstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9042858C-ED43-4B27-BD64-AC6CF2444CF6}|Stacks\\Stacks.csproj|solutionrelative:stacks\\linkedstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9042858C-ED43-4B27-BD64-AC6CF2444CF6}|Stacks\\Stacks.csproj|D:\\DLOAD\\DataStructure\\stacks\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9042858C-ED43-4B27-BD64-AC6CF2444CF6}|Stacks\\Stacks.csproj|solutionrelative:stacks\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD73E0F-F0A5-43AE-9190-23DF77F9A2EF}|PriorityQueue\\PriorityQueues.csproj|D:\\DLOAD\\DataStructure\\priorityqueue\\priorityqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD73E0F-F0A5-43AE-9190-23DF77F9A2EF}|PriorityQueue\\PriorityQueues.csproj|solutionrelative:priorityqueue\\priorityqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84FB46A5-C0F1-4D21-88F2-D344C1BE920F}|Queues\\Queues.csproj|D:\\DLOAD\\DataStructure\\queues\\binaryheap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84FB46A5-C0F1-4D21-88F2-D344C1BE920F}|Queues\\Queues.csproj|solutionrelative:queues\\binaryheap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84FB46A5-C0F1-4D21-88F2-D344C1BE920F}|Queues\\Queues.csproj|D:\\DLOAD\\DataStructure\\queues\\priorityqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84FB46A5-C0F1-4D21-88F2-D344C1BE920F}|Queues\\Queues.csproj|solutionrelative:queues\\priorityqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84FB46A5-C0F1-4D21-88F2-D344C1BE920F}|Queues\\Queues.csproj|D:\\DLOAD\\DataStructure\\queues\\queue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84FB46A5-C0F1-4D21-88F2-D344C1BE920F}|Queues\\Queues.csproj|solutionrelative:queues\\queue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9139FD89-88A2-4F8C-88E5-842E0A735FCE}|MinBinaryHeap\\MinBinaryHeap.csproj|D:\\DLOAD\\DataStructure\\minbinaryheap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9139FD89-88A2-4F8C-88E5-842E0A735FCE}|MinBinaryHeap\\MinBinaryHeap.csproj|solutionrelative:minbinaryheap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84FB46A5-C0F1-4D21-88F2-D344C1BE920F}|Queues\\Queues.csproj|D:\\DLOAD\\DataStructure\\queues\\arraylistpriorityqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84FB46A5-C0F1-4D21-88F2-D344C1BE920F}|Queues\\Queues.csproj|solutionrelative:queues\\arraylistpriorityqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC04DC8-72A3-40D6-9039-7D15E6CB93E4}|Lists\\Lists.csproj|D:\\DLOAD\\DataStructure\\lists\\arraylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDC04DC8-72A3-40D6-9039-7D15E6CB93E4}|Lists\\Lists.csproj|solutionrelative:lists\\arraylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84FB46A5-C0F1-4D21-88F2-D344C1BE920F}|Queues\\Queues.csproj|D:\\DLOAD\\DataStructure\\queues\\linkedlistqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84FB46A5-C0F1-4D21-88F2-D344C1BE920F}|Queues\\Queues.csproj|solutionrelative:queues\\linkedlistqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63FEE38F-AB66-449E-AB28-6643AAE6E7E1}|MazeGUINO2\\MazeGUINO2.csproj|D:\\DLOAD\\DataStructure\\mazeguino2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63FEE38F-AB66-449E-AB28-6643AAE6E7E1}|MazeGUINO2\\MazeGUINO2.csproj|solutionrelative:mazeguino2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{63FEE38F-AB66-449E-AB28-6643AAE6E7E1}|MazeGUINO2\\MazeGUINO2.csproj|D:\\DLOAD\\DataStructure\\mazeguino2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -29,10 +125,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{63FEE38F-AB66-449E-AB28-6643AAE6E7E1}|MazeGUINO2\\MazeGUINO2.csproj|D:\\DLOAD\\DataStructure\\mazeguino2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{63FEE38F-AB66-449E-AB28-6643AAE6E7E1}|MazeGUINO2\\MazeGUINO2.csproj|solutionrelative:mazeguino2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9042858C-ED43-4B27-BD64-AC6CF2444CF6}|Stacks\\Stacks.csproj|D:\\DLOAD\\DataStructure\\stacks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9042858C-ED43-4B27-BD64-AC6CF2444CF6}|Stacks\\Stacks.csproj|solutionrelative:stacks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,71 +134,368 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PriorityQueue.cs",
-              "DocumentMoniker": "D:\\DLOAD\\DataStructure\\Queues\\PriorityQueue.cs",
-              "RelativeDocumentMoniker": "Queues\\PriorityQueue.cs",
-              "ToolTip": "D:\\DLOAD\\DataStructure\\Queues\\PriorityQueue.cs",
-              "RelativeToolTip": "Queues\\PriorityQueue.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Puzzle.cs",
+              "DocumentMoniker": "D:\\DLOAD\\DataStructure\\Puzzle15\\Puzzle.cs",
+              "RelativeDocumentMoniker": "Puzzle15\\Puzzle.cs",
+              "ToolTip": "D:\\DLOAD\\DataStructure\\Puzzle15\\Puzzle.cs",
+              "RelativeToolTip": "Puzzle15\\Puzzle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T09:25:18.971Z"
+              "WhenOpened": "2024-11-06T13:53:07.376Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ArrayListPriorityQueue.cs",
-              "DocumentMoniker": "D:\\DLOAD\\DataStructure\\Queues\\ArrayListPriorityQueue.cs",
-              "RelativeDocumentMoniker": "Queues\\ArrayListPriorityQueue.cs",
-              "ToolTip": "D:\\DLOAD\\DataStructure\\Queues\\ArrayListPriorityQueue.cs",
-              "RelativeToolTip": "Queues\\ArrayListPriorityQueue.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAIwC4AAAAbAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DLOAD\\DataStructure\\Puzzle15\\Program.cs",
+              "RelativeDocumentMoniker": "Puzzle15\\Program.cs",
+              "ToolTip": "D:\\DLOAD\\DataStructure\\Puzzle15\\Program.cs",
+              "RelativeToolTip": "Puzzle15\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T09:21:23.522Z",
+              "WhenOpened": "2024-11-06T13:52:41.146Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "ArrayQueue.cs",
+              "DocumentMoniker": "D:\\DLOAD\\DataStructure\\Queues\\ArrayQueue.cs",
+              "RelativeDocumentMoniker": "Queues\\ArrayQueue.cs",
+              "ToolTip": "D:\\DLOAD\\DataStructure\\Queues\\ArrayQueue.cs",
+              "RelativeToolTip": "Queues\\ArrayQueue.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAswIUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T13:46:46.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Sorting.cs",
+              "DocumentMoniker": "D:\\DLOAD\\DataStructure\\Sortings\\Sorting.cs",
+              "RelativeDocumentMoniker": "Sortings\\Sorting.cs",
+              "ToolTip": "D:\\DLOAD\\DataStructure\\Sortings\\Sorting.cs",
+              "RelativeToolTip": "Sortings\\Sorting.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T19:24:51.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LinkedList.cs",
+              "DocumentMoniker": "D:\\DLOAD\\DataStructure\\Lists\\LinkedList.cs",
+              "RelativeDocumentMoniker": "Lists\\LinkedList.cs",
+              "ToolTip": "D:\\DLOAD\\DataStructure\\Lists\\LinkedList.cs",
+              "RelativeToolTip": "Lists\\LinkedList.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T18:57:50.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SinglyLinkedList.cs",
+              "DocumentMoniker": "D:\\DLOAD\\DataStructure\\Lists\\SinglyLinkedList.cs",
+              "RelativeDocumentMoniker": "Lists\\SinglyLinkedList.cs",
+              "ToolTip": "D:\\DLOAD\\DataStructure\\Lists\\SinglyLinkedList.cs",
+              "RelativeToolTip": "Lists\\SinglyLinkedList.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T18:57:32.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BinaryTree.cs",
+              "DocumentMoniker": "D:\\DLOAD\\DataStructure\\BinaryTree\\BinaryTree.cs",
+              "RelativeDocumentMoniker": "BinaryTree\\BinaryTree.cs",
+              "ToolTip": "D:\\DLOAD\\DataStructure\\BinaryTree\\BinaryTree.cs",
+              "RelativeToolTip": "BinaryTree\\BinaryTree.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAA8wFoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T13:40:52.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LinkedStack.cs",
+              "DocumentMoniker": "D:\\DLOAD\\DataStructure\\Stacks\\LinkedStack.cs",
+              "RelativeDocumentMoniker": "Stacks\\LinkedStack.cs",
+              "ToolTip": "D:\\DLOAD\\DataStructure\\Stacks\\LinkedStack.cs",
+              "RelativeToolTip": "Stacks\\LinkedStack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T22:44:12.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Stack.cs",
+              "DocumentMoniker": "D:\\DLOAD\\DataStructure\\Stacks\\Stack.cs",
+              "RelativeDocumentMoniker": "Stacks\\Stack.cs",
+              "ToolTip": "D:\\DLOAD\\DataStructure\\Stacks\\Stack.cs",
+              "RelativeToolTip": "Stacks\\Stack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T22:44:11.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ArrayListQueue.cs",
               "DocumentMoniker": "D:\\DLOAD\\DataStructure\\Queues\\ArrayListQueue.cs",
               "RelativeDocumentMoniker": "Queues\\ArrayListQueue.cs",
               "ToolTip": "D:\\DLOAD\\DataStructure\\Queues\\ArrayListQueue.cs",
               "RelativeToolTip": "Queues\\ArrayListQueue.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T09:20:05.765Z"
+              "WhenOpened": "2024-10-23T09:20:05.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArrayStack.cs",
+              "DocumentMoniker": "D:\\DLOAD\\DataStructure\\Stacks\\ArrayStack.cs",
+              "RelativeDocumentMoniker": "Stacks\\ArrayStack.cs",
+              "ToolTip": "D:\\DLOAD\\DataStructure\\Stacks\\ArrayStack.cs",
+              "RelativeToolTip": "Stacks\\ArrayStack.cs",
+              "ViewState": "AgIAAMYAAAAAAAAAAAAUwNgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T22:42:14.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DLOAD\\DataStructure\\Stacks\\Program.cs",
+              "RelativeDocumentMoniker": "Stacks\\Program.cs",
+              "ToolTip": "D:\\DLOAD\\DataStructure\\Stacks\\Program.cs*",
+              "RelativeToolTip": "Stacks\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T04:59:08.9Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\DLOAD\\DataStructure\\Stacks\\Program.cs",
-              "RelativeDocumentMoniker": "Stacks\\Program.cs",
-              "ToolTip": "D:\\DLOAD\\DataStructure\\Stacks\\Program.cs",
-              "RelativeToolTip": "Stacks\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Title": "BinarySearchTree.cs",
+              "DocumentMoniker": "D:\\DLOAD\\DataStructure\\BinaryTree\\BinarySearchTree.cs",
+              "RelativeDocumentMoniker": "BinaryTree\\BinarySearchTree.cs",
+              "ToolTip": "D:\\DLOAD\\DataStructure\\BinaryTree\\BinarySearchTree.cs",
+              "RelativeToolTip": "BinaryTree\\BinarySearchTree.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAWwEEAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T04:59:08.9Z"
+              "WhenOpened": "2024-11-05T13:12:25.224Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DLOAD\\DataStructure\\Set\\Program.cs",
+              "RelativeDocumentMoniker": "Set\\Program.cs",
+              "ToolTip": "D:\\DLOAD\\DataStructure\\Set\\Program.cs",
+              "RelativeToolTip": "Set\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T13:45:31.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DLOAD\\DataStructure\\Test\\Program.cs",
+              "RelativeDocumentMoniker": "Test\\Program.cs",
+              "ToolTip": "D:\\DLOAD\\DataStructure\\Test\\Program.cs",
+              "RelativeToolTip": "Test\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T13:52:13.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Expression.cs",
+              "DocumentMoniker": "D:\\DLOAD\\DataStructure\\BinaryTree\\Expression.cs",
+              "RelativeDocumentMoniker": "BinaryTree\\Expression.cs",
+              "ToolTip": "D:\\DLOAD\\DataStructure\\BinaryTree\\Expression.cs",
+              "RelativeToolTip": "BinaryTree\\Expression.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAD4vzQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T22:39:43.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HuffmanTree.cs",
+              "DocumentMoniker": "D:\\DLOAD\\DataStructure\\BinaryTree\\HuffmanTree.cs",
+              "RelativeDocumentMoniker": "BinaryTree\\HuffmanTree.cs",
+              "ToolTip": "D:\\DLOAD\\DataStructure\\BinaryTree\\HuffmanTree.cs",
+              "RelativeToolTip": "BinaryTree\\HuffmanTree.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA5wBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T22:05:14.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BinaryMinHeap.cs",
+              "DocumentMoniker": "D:\\DLOAD\\DataStructure\\PriorityQueue\\BinaryMinHeap.cs",
+              "RelativeDocumentMoniker": "PriorityQueue\\BinaryMinHeap.cs",
+              "ToolTip": "D:\\DLOAD\\DataStructure\\PriorityQueue\\BinaryMinHeap.cs",
+              "RelativeToolTip": "PriorityQueue\\BinaryMinHeap.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAIwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T21:56:57.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BinaryHeap.cs",
+              "DocumentMoniker": "D:\\DLOAD\\DataStructure\\PriorityQueue\\BinaryHeap.cs",
+              "RelativeDocumentMoniker": "PriorityQueue\\BinaryHeap.cs",
+              "ToolTip": "D:\\DLOAD\\DataStructure\\PriorityQueue\\BinaryHeap.cs",
+              "RelativeToolTip": "PriorityQueue\\BinaryHeap.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAAwFkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T21:55:57.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Queue.cs",
+              "DocumentMoniker": "D:\\DLOAD\\DataStructure\\Queues\\Queue.cs",
+              "RelativeDocumentMoniker": "Queues\\Queue.cs",
+              "ToolTip": "D:\\DLOAD\\DataStructure\\Queues\\Queue.cs",
+              "RelativeToolTip": "Queues\\Queue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T21:55:05.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PriorityQueue.cs",
+              "DocumentMoniker": "D:\\DLOAD\\DataStructure\\PriorityQueue\\PriorityQueue.cs",
+              "RelativeDocumentMoniker": "PriorityQueue\\PriorityQueue.cs",
+              "ToolTip": "D:\\DLOAD\\DataStructure\\PriorityQueue\\PriorityQueue.cs",
+              "RelativeToolTip": "PriorityQueue\\PriorityQueue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T21:54:11.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BinaryTree.cs",
+              "DocumentMoniker": "D:\\DLOAD\\DataStructure\\BinaryTree\\BinaryTree.cs",
+              "RelativeDocumentMoniker": "BinaryTree\\BinaryTree.cs",
+              "ToolTip": "D:\\DLOAD\\DataStructure\\BinaryTree\\BinaryTree.cs",
+              "RelativeToolTip": "BinaryTree\\BinaryTree.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T21:24:40.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ArrayList.cs",
+              "DocumentMoniker": "D:\\DLOAD\\DataStructure\\Lists\\ArrayList.cs",
+              "RelativeDocumentMoniker": "Lists\\ArrayList.cs",
+              "ToolTip": "D:\\DLOAD\\DataStructure\\Lists\\ArrayList.cs",
+              "RelativeToolTip": "Lists\\ArrayList.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwB8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T19:45:49.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DLOAD\\DataStructure\\MinBinaryHeap\\Program.cs",
+              "RelativeDocumentMoniker": "MinBinaryHeap\\Program.cs",
+              "ToolTip": "D:\\DLOAD\\DataStructure\\MinBinaryHeap\\Program.cs",
+              "RelativeToolTip": "MinBinaryHeap\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T20:24:33.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BinaryHeap.cs",
+              "DocumentMoniker": "D:\\DLOAD\\DataStructure\\Queues\\BinaryHeap.cs",
+              "RelativeDocumentMoniker": "Queues\\BinaryHeap.cs",
+              "ToolTip": "D:\\DLOAD\\DataStructure\\Queues\\BinaryHeap.cs",
+              "RelativeToolTip": "Queues\\BinaryHeap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T18:52:02.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "LinkedListQueue.cs",
+              "DocumentMoniker": "D:\\DLOAD\\DataStructure\\Queues\\LinkedListQueue.cs",
+              "RelativeDocumentMoniker": "Queues\\LinkedListQueue.cs",
+              "ToolTip": "D:\\DLOAD\\DataStructure\\Queues\\LinkedListQueue.cs",
+              "RelativeToolTip": "Queues\\LinkedListQueue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T18:24:14.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PriorityQueue.cs",
+              "DocumentMoniker": "D:\\DLOAD\\DataStructure\\Queues\\PriorityQueue.cs",
+              "RelativeDocumentMoniker": "Queues\\PriorityQueue.cs",
+              "ToolTip": "D:\\DLOAD\\DataStructure\\Queues\\PriorityQueue.cs",
+              "RelativeToolTip": "Queues\\PriorityQueue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T09:25:18.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ArrayListPriorityQueue.cs",
+              "DocumentMoniker": "D:\\DLOAD\\DataStructure\\Queues\\ArrayListPriorityQueue.cs",
+              "RelativeDocumentMoniker": "Queues\\ArrayListPriorityQueue.cs",
+              "ToolTip": "D:\\DLOAD\\DataStructure\\Queues\\ArrayListPriorityQueue.cs",
+              "RelativeToolTip": "Queues\\ArrayListPriorityQueue.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T09:21:23.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\DLOAD\\DataStructure\\MazeGUINO2\\Form1.cs",
               "RelativeDocumentMoniker": "MazeGUINO2\\Form1.cs",
               "ToolTip": "D:\\DLOAD\\DataStructure\\MazeGUINO2\\Form1.cs [Design]",
               "RelativeToolTip": "MazeGUINO2\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T20:29:00.709Z"
+              "WhenOpened": "2024-10-14T20:29:00.709Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 28,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\DLOAD\\DataStructure\\MazeGUINO2\\Form1.cs",
               "RelativeDocumentMoniker": "MazeGUINO2\\Form1.cs",
@@ -114,11 +503,12 @@
               "RelativeToolTip": "MazeGUINO2\\Form1.cs",
               "ViewState": "AgIAAFEAAAAAAAAAAAAAAHAAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T20:08:32.88Z"
+              "WhenOpened": "2024-10-14T20:08:32.88Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 30,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\DLOAD\\DataStructure\\MazeGUINO2\\Program.cs",
               "RelativeDocumentMoniker": "MazeGUINO2\\Program.cs",
@@ -127,18 +517,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-16T05:08:09.241Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Maze.cs",
-              "DocumentMoniker": "D:\\DLOAD\\DataStructure\\MazeTest\\Maze.cs",
-              "RelativeDocumentMoniker": "MazeTest\\Maze.cs",
-              "ToolTip": "D:\\DLOAD\\DataStructure\\MazeTest\\Maze.cs",
-              "RelativeToolTip": "MazeTest\\Maze.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBoAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T15:06:35.93Z"
             }
           ]
         }
